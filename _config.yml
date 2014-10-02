@@ -5,10 +5,24 @@ description: > # this means to ignore newlines until "baseurl:"
   All you need to know about me and my research work!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://LaGauffre.github.io" # the base hostname & protocol for your site
+<<<<<<< HEAD
 github_username:  LaGauffre
 facebook_username: Pierro.goffard
 twitter_username: LaGauffreBzh
 #linkedIn_username:
+=======
+
+social:
+  - network: github
+    username: LaGauffre
+  - network: twitter
+    username: Lagauffrebzh
+  - network: linkedin
+    username: pub/pierre-olivier-goffard/a4/abb/952
+  - network: facebook
+    username: pierro.goffard
+
+>>>>>>> 1196153b42e10850ca6571db978716e91857429e
 
 # Build settings
 markdown: redcarpet

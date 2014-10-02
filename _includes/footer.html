@@ -2,9 +2,8 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
+<<<<<<< HEAD
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <!--<li>{{ site.title }}</li>-->
@@ -51,10 +50,26 @@
              </span>
           </li>
           {% endif %}
+=======
+      <div class="footer-col footer-col-3">
+        <ul class="social-media-list list-inline">
+          <li>
+            <a href="mailto:{{ site.email }}">
+              <i class="fa fa-envelope"></i>
+            </a>
+          </li>
+          {% for profile in site.social %}
+            <li>
+              <a href="https://{{ profile.network }}.com/{{ profile.username }}" target="_blank">
+                <i class="fa fa-{{ profile.network }}"></i>
+              </a>
+            </li>
+          {% endfor %}
+>>>>>>> 1196153b42e10850ca6571db978716e91857429e
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
+      <div class="footer-col footer-col-3">
         <p class="text">{{ site.description }}</p>
       </div>
     </div>
