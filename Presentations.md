@@ -4,5 +4,9 @@ title: Presentations
 permalink: /Presentations/
 ---
 
-* 45ème journées de la statistique, Rennes, 2014
-* 44ème journées de la statistique, Toulouse, 2014
+* 45ème journées de la statistique, Rennes, 2014.
+[Agrégation d'un portefeuille de contrat d'assurance vie](/presentations/SlidesSFDSGoffardRennes.pdf)
+* CEQURA, Munich, 2013. [A polynomial expansion to approximate ruin probabilities](/presentations/SlidesCEQURA2013Goffard.pdf)
+* 5ème rencontre des jeunes statisticiens, Aussois, 2013. [Une approximation de la probabilité de ruine ultime via un développement polynomial](/presentations/SlidesAussoisGoffard.pdf)
+* 44ème journées de statistique, Toulouse, 2013. [Une approximation de la probabilité de ruine ultime via un développement polynomial](/presentations/Goffard_PO_StatistiqueNonParametrique.pdf)
+* Perspective on Actuarial Risks in talks of Young Researchers, Ascona, 2013. [A polynomial expansion to approximate ruin probabilities](/presentations/SlidesAscona.pdf)
