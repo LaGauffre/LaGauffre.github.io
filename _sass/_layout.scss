@@ -17,7 +17,7 @@
     margin-bottom: 0;
     float: left;
 
-    &,
+
     &:visited {
         color: $grey-color-dark;
     }
@@ -32,8 +32,12 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
         line-height: $base-line-height;
+        &:hover {
+            color: darken($brand-color, 15%);
+            text-decoration: none;
+        }
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -186,7 +190,8 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 18px;/*Controle la taille de la police des liens vers les posts*/
+    line-height: 1.5;/*Contrôle l'espace interligne sur le lien des posts*/
 }
 
 
