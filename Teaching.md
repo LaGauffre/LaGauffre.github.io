@@ -5,7 +5,7 @@ permalink: /Teaching/
 ---
 
 ##Introduction à la théorie de la ruine
-![alt text](/Teaching/RiskReserveProcess.png "Risk Reserve process")
+![RiskProcess](/Teaching/RiskReserveProcess.png "Risk Reserve process")
 ###Intervention de 6H Cours Magistral/TD
 
 * [Lectures notes](/Teaching/SupportMiniCoursRuinTheory.pdf)
