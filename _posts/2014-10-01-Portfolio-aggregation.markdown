@@ -3,6 +3,8 @@ layout: post
 title:  "Is it optimal to group policyholders by age, gender, and seniority for BEL computations based on model points?"
 ---
 
+This work is the
+
 ![alt text](/Publications/TrajectoriesClassified.png "Risk Reserve process")
 #Abstract
 
