@@ -4,6 +4,8 @@ title: Presentations
 permalink: /Presentations/
 ---
 
+* Week end team building, Montpellier, 2014.
+[Développement polynomiaux et application en théorie de la ruine](/Files/PresentationWeTeamBuilding/Pierre-O-Goffard-WETeamBuildingMontpellier.pdf)
 * 45ème journées de la statistique, Rennes, 2014.
 [Agrégation d'un portefeuille de contrat d'assurance vie](/Presentations/SlidesSFDSGoffardRennes.pdf)
 * CEQURA, Munich, 2013. [A polynomial expansion to approximate ruin probabilities](/Presentations/SlidesCEQURA2013Goffard.pdf)

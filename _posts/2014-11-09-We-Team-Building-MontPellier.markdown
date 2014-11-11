@@ -4,7 +4,7 @@ title:  Week-end Team building à Montpellier
 ---
 ###Merci à [Stephane Loisel][StephaneLoisel] et à Alexandre Mornet pour l'organisation de ce week-end à Montpellier!
 
-Ce week-end s'est déroulé à Montpellier, le week-end team building des doctorants de Stéphane Loisel.
+Ce week-end s'est déroulé à Montpellier: le week-end team building des doctorants de Stéphane Loisel.
 
 ![MontpellierTramwayMulticolor](/Photos/WeTeamBuildingMontpellier/MontpellierTram.png "Montepellier et ses Tramways colorés")
 
@@ -12,19 +12,20 @@ Ce week-end s'est déroulé à Montpellier, le week-end team building des doctor
 
 ![LaTeamLoisel](/Photos/WeTeamBuildingMontpellier/LaTeam.jpg "La team Loisel")
 
-L'objectif était de se retrouver de manière informelle afin de passer un week-end de détente et de faire connaissance. Une composante recherche a été ajouté à la recette, donnant l'occasion à chacun de présenter ses travaux ou futur travaux.
-A la suite d'un déjeuner de fort bonne facture, nous nous sommes retrouvés chez Alexandre. Son appartement spacieux et chaleureux s'est avéré particulièrement adapté à la tenue d'exposé de recherche.
+L'objectif était de se retrouver de manière informelle afin de passer un week-end de détente et de faire connaissance. Une composante recherche a été ajoutée à la recette, donnant l'occasion à chacun de présenter ses travaux ou futur travaux.
+A la suite d'un déjeuner de fort bonne facture, nous nous sommes retrouvés chez Alexandre. Son appartement spacieux et chaleureux s'est avéré particulièrement adapté à la tenue d'exposés de recherche.
 
 ![AppartAlex](/Photos/WeTeamBuildingMontpellier/ExposeChezALex.jpg "Let's rock it")
 
-Nous voila fin prêt a envoyer de l'exposé. Alex B. a ouvert le bal.
+Nous voila fin prêt a envoyer de l'exposé. Alex B. a ouvert le bal...
 
 ###18h00: Alex Boumezoued: le swag dans le look et les animations graphiques.
-Alexandre Boumezoued est un thésard de Paris 6 rattaché au laboratoire de probabilités et de modèle aléatoire co-encadré par Nicole El Karoui.
+
+Alexandre Boumezoued est un thésard de Paris 6 rattaché au laboratoire de probabilités et de modèle aléatoire. Il est co-encadré par Nicole El Karoui.
 
 ![AlexBoumezoued](/Photos/WeTeamBuildingMontpellier/ALexBoumezoued.png "Alexandre Boumezoued")
 
-L'objectif de son travail est d'étudier la dynamique d'évolution des population au travers de processus stochastique. Il s'agit en outre de processus de comptage tels que les fameux processus de Poisson ou de naissance-mort.
+L'objectif de son travail est d'étudier la dynamique d'évolution des populations au travers de processus stochastiques. Il s'agit en outre de processus de comptage tels que les fameux processus de Poisson ou de naissance-mort.
 
 Un processus de Poisson non-homogène est notamment à l'étude. Alexandre nous a expliqué comment le simuler via une méthode de thinning.
 
@@ -32,7 +33,7 @@ Dans son modèle d'évolution de la population,
 
 *"Un individu meurs, donne naissance ou change de caractéristique"*
 
-Et puis c'est tout! Pour illustrer ça, nous avons eu le droit à une animation graphique. Des graphiques se sont superposé par magie devant l'audience ébahie.
+Et puis c'est tout! Pour illustrer ça, nous avons eu le droit à une animation graphique. Des graphiques se sont superposés par magie devant l'audience ébahie.
 
 Merci Alex B.
 
@@ -40,16 +41,16 @@ Merci Alex B.
 
 Nous remercions encore notre hôte pour son accueil ce week-end.
 
-Alexandre Mornet est un thésard de l'ISFA qui travaille en collaboration avec les équipe IARD d'[Allianz][Allianz].
+Alexandre Mornet est un thésard de l'ISFA qui travaille en collaboration avec les équipes IARD d'[Allianz][Allianz].
 
 ![AlexMornet](/Photos/WeTeamBuildingMontpellier/AlexMornet.png "Alexandre Mornet")
 
-Le premier axe de son travail combine l'étude d'évènements météoroligiques extrêmes et l'étude des coûts pour l'assureur. Il s'agit d'un problème difficile car la faible probabilité d'occurence rend difficile l'approche statistique. Le peu d'outil a la disposition de l'actuaire pour appréhender ces risques extrêmes motive le travail d'Alexandre.
+Le premier axe de son travail combine l'étude d'évènements météoroligiques extrêmes et l'étude des coûts pour l'assureur. Il s'agit d'un problème difficile car la faible probabilité d'occurence rend difficile l'approche statistique. Le peu d'outils a la disposition de l'actuaire pour appréhender ces risques extrêmes motive le travail d'Alexandre.
 
 L'enjeu est important.
 
 * Année normale: Coût moyen = 11 Milliards
-* Année avec une tempête: Coût moyen + 12 Milliards
+* Année avec une tempête: Coût = Coût moyen + 12 Milliards
 
 Il a par exemple défini un indice "tempête" (mesure de la magnitude de l'évènement) qui s'est avéré être corrélé de manière très interessante au coût pour l'assureur.
 
@@ -73,27 +74,27 @@ Julien Vedani est un thésard de l'ISFA mais il est aussi consultant chez [Milli
 
 Avec Julien, nous sommes retournés aux "origines" de Solvabilité II.
 
-Il nous a expliqué l'importance de l'approche dite "market consistent" c'est à dire cohérente avec le marché. Il existe en fait une vision dite risque neutre pour simuler le comportement des marchés financiers âprement remise en question par différente communautés de chercheurs actuellement.
+Il nous a expliqué l'importance de l'approche dite "market consistent" c'est à dire cohérente avec le marché. Il existe en fait une vision dite risque neutre pour simuler le comportement des marchés financiers âprement remise en question par différentes communautés de chercheurs à l'heure actuelle.
 
 Les hypothèses pour effectuer les calculs de valorisation sont néanmoins inscrites dans la réglementation. Julien tout en parlant jetait des coups d'oeil à Pierre Valade qui travaille justement pour l'autorité du contrôle prudentiel. Le chairman s'est donc fendu d'une intervention
 
-*"Ne regardes par Pierre comme ça , ce n'est pas de sa faute."*
+*"Ne regardes par Pierre comme ça, ce n'est pas de sa faute."*
 
 Et Pierre nous a rappelé que
 
 *"C'est écrit dans la loi, c'est comme la gravité on ne peut pas l'ignorer."*
 
-Nous avons ensuite discuté des temps de calculs associés à la valorisation sous solvabilité II et des avancées de Julien concernant l'accélération de ces derniers.
+Nous avons ensuite discuté des temps de calcul associés à la valorisation sous solvabilité II et des avancées de Julien concernant l'accélération de ces derniers.
 
 Merci Julien V.
 
 ### 20h15: C'est l'heure de l'apéro!
 
-Parce qu'une petite pause était bien mérité à la suite de ce grand débalage d'actuariat de haute volée, nous avons pris l'apéro. Le chairman a par conséquent débouché une bonne bouteille!
+Parce qu'une petite pause était bien méritée à la suite de ce débalage d'actuariat de haute volée, nous avons pris l'apéro. Le chairman a par conséquent débouché une bonne bouteille!
 
 ![StefLVinRouge1](/Photos/WeTeamBuildingMontpellier/StefLoiselBouteiiledePif.png "Stephane débouche le rouge!")
 
-Il n'y a pas à dire ce séminaire de doctorants n'avait rien à envier en termes de moyens au grandes conférences actuarielles. Petits fours et très bon vin au programme ;).
+Il n'y a pas à dire ce séminaire de doctorants n'avait rien à envier en termes de moyens aux grandes conférences actuarielles. Petits fours et très bon vin au programme ;).
 
 ![StefLVinRouge2](/Photos/WeTeamBuildingMontpellier/StefVin2.png "Stephane sert le rouge!")
 
@@ -104,7 +105,7 @@ Invitée spéciale de ce séminaire, Natacha Dufour consultante chez [BlueNove][
 
 *"les doctorants sont un peu comme des entrepreneurs."*
 
-Il s'agit d'une chance d'avoir bénéficier d'une telle prestation à moindre frais. Natacha et BlueNove offrent un service de coaching et d'accompagnement aux entreprises (et pas des moindres) dans leur processus d'innovation via des présentations et ateliers de l'innovation.
+Il s'agit d'une chance d'avoir bénéficié d'une telle prestation à moindre frais. Natacha et BlueNove offrent un service de coaching et d'accompagnement aux entreprises (et pas des moindres) dans leur processus d'innovation via des présentations et ateliers de l'innovation.
 
 ![NDufour](/Photos/WeTeamBuildingMontpellier/NatachaDufour.png "Natacha Dufour")
 
@@ -186,7 +187,7 @@ Sa thèse va porter sur le pouvoir des autorités de supervision, dont il préci
 
 *"Prévenir vaut mieux que guérir"*.
 
-La prévention passe notamment par la création et le pilotage d'indicateurs qu'il préfère appeler indicateur de vulnérabilité plutôt qu'indicateur de risque. Un travail de réflexion est en cours au sujet du choix des indicateurs sur des critères qualitatifs et quantitatifs. Une cartographie sera réalisée à la suite de ces choix.
+La prévention passe notamment par la création et le pilotage d'indicateurs qu'il préfère appeler indicateurs de vulnérabilité plutôt qu'indicateurs de risque. Un travail de réflexion est en cours au sujet du choix des indicateurs sur des critères qualitatifs et quantitatifs. Une cartographie sera réalisée à la suite de ces choix.
 
 Il a aussi pour objectif de lier le cycle de l'assurance à des cycles macro-économiques classiques comme le cycle du chômage ou de l'inflation mais aussi des cycles plus "exotiques" tel que l'impact de la norme.
 
@@ -215,8 +216,8 @@ Nous remercions la chaire actuariat durable pour avoir sponsorisé en partie cet
 
 
 ###Retrouvez les différentes présentations par ordre d'apparition
-* **Alexandre Boumezoued**, Dynamiques des population: Construction et applications à la longévité. [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Boum_Montpellier_081114.pdf)
-* **Alexandre Mornet**, De la création d'un indice tempête et de l'utiisation de la variable kilométrage en assurance auto [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Mornet-Montpellier 2014.pdf)
+* **Alexandre Boumezoued**, Dynamiques des populations: Construction et applications à la longévité. [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Boum_Montpellier_081114.pdf)
+* **Alexandre Mornet**, De la création d'un indice tempête et de l'utitisation de la variable kilométrage en assurance auto [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Mornet-Montpellier 2014.pdf)
 * **Julien Vedani**, Valorisation économique en asurance vie [(PDF)](/Files/PresentationWeTeamBuilding/Julien-Vedani-SeminaireMontpellier081114.pdf)
 * **Natacha Dufour**, Innovation et créativité [(PDF)](/Files/PresentationWeTeamBuilding/Presentation bluenove - seminaire Loisel 20141108.pdf)
 * **Pierre-Olivier Goffard**, Développement polynomiaux et application en théorie de la ruine
