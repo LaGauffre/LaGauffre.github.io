@@ -50,7 +50,7 @@ Le premier axe de son travail combine l'étude d'évènements météoroligiques 
 L'enjeu est important.
 
 * Année normale: Coût moyen = 11 Milliards
-* Année avec une tempête: Coût = Coût moyen + 12 Milliards
+* Année avec une tempête exceptionnelle: Coût = Coût moyen + 12 Milliards
 
 Il a par exemple défini un indice "tempête" (mesure de la magnitude de l'évènement) qui s'est avéré être corrélé de manière très interessante au coût pour l'assureur.
 
