@@ -130,7 +130,7 @@ D'un autre côté les techniques de convergence comme la __matrice de sélection
 
 ![MatrixSelection](/Photos/WeTeamBuildingMontpellier/MatrixSelection.png "La matrice de sélection")
 
-Il va de soit que si votre idée est à mettre dans la case TCOQ (_"T'es C** ou quoi?"_), mieux vaut l'abandonner.
+Il va de soi que si votre idée est à mettre dans la case TCOQ (_"T'es C** ou quoi?"_), mieux vaut l'abandonner.
 
 Merci Natacha D.
 
