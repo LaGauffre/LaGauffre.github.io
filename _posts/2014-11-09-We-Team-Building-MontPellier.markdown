@@ -147,7 +147,7 @@ Après quelques bières, nous avons regagné sagement notre hôtel en attrapant 
 
 ### 12H00: Pierre-O Goffard: Let's get back to work
 
-J'ai ouvert la deuxième session de présentations le lendemain matin pour déblatérer à propos de mes chères pôlynômes orthogonaux.
+J'ai ouvert la deuxième session de présentations le lendemain matin pour déblatérer à propos de mes chères polynômes orthogonaux.
 
 ![POG](/Photos/WeTeamBuildingMontpellier/Moi.jpg "Pierre-Olivier Goffard")
 
