@@ -31,7 +31,7 @@ Un processus de Poisson non-homogène est notamment à l'étude. Alexandre nous 
 
 Dans son modèle d'évolution de la population,
 
-*"Un individu meurs, donne naissance ou change de caractéristique"*
+*"Un individu meurt, donne naissance ou change de caractéristique"*
 
 Et puis c'est tout! Pour illustrer ça, nous avons eu le droit à une animation graphique. Des graphiques se sont superposés par magie devant l'audience ébahie.
 
@@ -218,7 +218,7 @@ Nous remercions la chaire actuariat durable pour avoir sponsorisé en partie cet
 ###Retrouvez les différentes présentations par ordre d'apparition
 * **Alexandre Boumezoued**, Dynamiques des populations: Construction et applications à la longévité. [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Boum_Montpellier_081114.pdf)
 * **Alexandre Mornet**, De la création d'un indice tempête et de l'utitisation de la variable kilométrage en assurance auto [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Mornet-Montpellier 2014.pdf)
-* **Julien Vedani**, Valorisation économique en asurance vie [(PDF)](/Files/PresentationWeTeamBuilding/Julien-Vedani-SeminaireMontpellier081114.pdf)
+* **Julien Vedani**, Valorisation économique en asurance vie [(PDF)](/Files/PresentationWeTeamBuilding/SeminaireMontpellier081114vPOG.pdf)
 * **Natacha Dufour**, Innovation et créativité [(PDF)](/Files/PresentationWeTeamBuilding/Presentation bluenove - seminaire Loisel 20141108.pdf)
 * **Pierre-Olivier Goffard**, Développement polynomiaux et application en théorie de la ruine
 [(PDF)](/Files/PresentationWeTeamBuilding/Pierre-O-Goffard-WETeamBuildingMontpellier.pdf)
