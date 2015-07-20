@@ -4,6 +4,10 @@ title: Presentations
 permalink: /Presentations/
 ---
 
+* 19th International congress on Insurance, Mathematics and Economics Liverpool, 2015.
+[Polynomial approximations of a bivariate aggregate claims amount distribution](/Presentations/IMEConferenceSlidesPO.pdf)
+* 19th International congress on Insurance, Mathematics and Economics, Liverpool, 2015.
+[Polynomial approximations of a bivariate aggregate claims amount distribution](/Presentations/IMEConferenceSlidesPO.pdf)
 * Week end team building, Montpellier, 2014.
 [Développement polynomiaux et application en théorie de la ruine](/Files/PresentationWeTeamBuilding/Pierre-O-Goffard-WETeamBuildingMontpellier.pdf)
 * 45ème journées de la statistique, Rennes, 2014.
