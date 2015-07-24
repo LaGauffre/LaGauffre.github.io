@@ -5,7 +5,7 @@ permalink: /Presentations/
 ---
 
 * Université d'été de l'institut des actuaires, Brest, 2015.
-[Optimisation du processus d'agrégation des portefeuille de contrats d'assurance vie](/Presentations/SlidesEuria.pdf)
+[Optimisation du processus d'agrégation des portefeuilles de contrats d'assurance vie](/Presentations/SlidesEuria.pdf)
 * Soutenance de Thèse, Marseille, 2015.
 [Approximations polynomiales de densité de probabilité et applications et en assurance](/Presentations/SoutenanceThese.pdf)
 * 19th International congress on Insurance, Mathematics and Economics, Liverpool, 2015.
