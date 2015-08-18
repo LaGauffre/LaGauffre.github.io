@@ -6,7 +6,7 @@ title:  Week-end Team building à Montpellier
 
 Ce week-end s'est déroulé à Montpellier: le week-end team building des doctorants de Stéphane Loisel.
 
-![MontpellierTramwayMulticolor](/Photos/WeTeamBuildingMontpellier/MontpellierTram.png "Montepellier et ses Tramways colorés")
+![MontpellierTramwayMulticolor](/Photos/WeTeamBuildingMontpellier/MontpellierTram.png "Montpellier et ses Tramways colorés")
 
  Il s'agit d'un séminaire réservé à ses doctorants parmi lesquels Julien Vedani, Alexandre Mornet, Alexandre Boumezoued, Pierre Valade, Claire Mouminoux et moi-même.
 
