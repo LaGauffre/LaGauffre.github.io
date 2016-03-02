@@ -4,6 +4,10 @@ title: Presentations
 permalink: /Presentations/
 ---
 
+* Workshop on Dependence, copulas and actuarial science (Semaine Thématique du CIRM), Marseille, 2015.
+[Orthonormal polynomial expansions and lognormal sum densities](/Presentations/SemaineThematiqueCIRMGoffard.pdf)
+* Thiele Seminar Aarhus University, Aarhus, 2015.
+[Polynomial approximation of probability density functions with applications to insurance](/Presentations/AUSeminar.pdf)
 * Université d'été de l'institut des actuaires, Brest, 2015.
 [Optimisation du processus d'agrégation des portefeuilles de contrats d'assurance vie](/Presentations/SlidesEuria.pdf)
 * Soutenance de Thèse, Marseille, 2015.
