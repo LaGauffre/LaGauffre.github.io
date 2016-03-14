@@ -14,6 +14,8 @@ permalink: /Publi/
 * 2015 **P.O. Goffard**, S. Loisel & D. Pommeret, [A polynomial expansion to approximate the ultimate ruin probability in the compound Poisson ruin model](/Publications/Goffard_Loisel_Pommeret_June2015_Ruin_Probability_Approximation.pdf), Journal of Computational and Applied Mathematics.
 
 ##Submitted/Under revision
+* 2016 **P.O. Goffard** [Polynomial approximations suitd for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
+
 * 2015 S. Asmussen, **P.O. Goffard**, & P. Laub, [Orthonormal polynomial expansions and lognormal sum densities](/Publications/Asmussen_Goffard_Laub_LogNormalPolynomialApproximation.pdf), Working paper.
 
 
