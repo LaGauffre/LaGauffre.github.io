@@ -26,4 +26,4 @@ social:
 #>>>>>>> 1196153b42e10850ca6571db978716e91857429e
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
