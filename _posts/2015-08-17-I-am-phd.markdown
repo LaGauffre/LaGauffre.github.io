@@ -4,11 +4,11 @@ title:  I am PhD Bitch!
 ---
 Et voilà, après un peu plus de 3 ans de dur labeur, je suis docteur en mathématiques.
 
-###Délibération du Jury
+### Délibération du Jury
 Bien joué Pierre-Yves.
 [![IMAGE ALT TEXT](http://i.imgur.com/9S7XuoH.png)](http://www.youtube.com/watch?v=1IC56rnjUNo "Délibération du Jury")
 
-###L'exercice des questions/réponses avec le Jury
+### L'exercice des questions/réponses avec le Jury
 Tentative de grand burger de la mort, filmé à la "mommy".
 [![IMAGE ALT TEXT](http://i.imgur.com/snUKtOC.png)](http://www.youtube.com/watch?v=n7CY441fM4M "Exercice des questions/réponses")
 
@@ -23,6 +23,6 @@ Tentative de grand burger de la mort, filmé à la "mommy".
 ![Classik](/Photos/Soutenance/Classik.png "That's a classik")
 
 
-###Merci à tous pour les cadeaux!
+### Merci à tous pour les cadeaux!
 
 Retrouvez mon manuscrit [ici](/Publications/Main.pdf) et les slides de la soutenance [ici](/Presentations/SoutenanceThese.pdf).

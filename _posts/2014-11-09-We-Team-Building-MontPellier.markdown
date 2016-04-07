@@ -2,7 +2,7 @@
 layout: post
 title:  Week-end Team building à Montpellier
 ---
-###Merci à [Stephane Loisel][StephaneLoisel] et à Alexandre Mornet pour l'organisation de ce week-end à Montpellier!
+### Merci à [Stephane Loisel][StephaneLoisel] et à Alexandre Mornet pour l'organisation de ce week-end à Montpellier!
 
 Ce week-end s'est déroulé à Montpellier: le week-end team building des doctorants de Stéphane Loisel.
 
@@ -19,7 +19,7 @@ A la suite d'un déjeuner de fort bonne facture, nous nous sommes retrouvés che
 
 Nous voila fin prêt a envoyer de l'exposé. Alex B. a ouvert le bal...
 
-###18h00: Alex Boumezoued: le swag dans le look et les animations graphiques.
+### 18h00: Alex Boumezoued: le swag dans le look et les animations graphiques.
 
 Alexandre Boumezoued est un thésard de Paris 6 rattaché au laboratoire de probabilités et de modèle aléatoire. Il est co-encadré par Nicole El Karoui.
 
@@ -37,7 +37,7 @@ Et puis c'est tout! Pour illustrer ça, nous avons eu le droit à une animation 
 
 Merci Alex B.
 
-###18h45: Alex Mornet: Il joue à domicile.
+### 18h45: Alex Mornet: Il joue à domicile.
 
 Nous remercions encore notre hôte pour son accueil ce week-end.
 
@@ -66,7 +66,7 @@ Il fallait que ce soit dit!
 
 Merci Alex M.
 
-###19h30: Julien Vedani: Le Consultant-Chercheur.
+### 19h30: Julien Vedani: Le Consultant-Chercheur.
 
 Julien Vedani est un thésard de l'ISFA mais il est aussi consultant chez [Milliman][Milliman].
 
@@ -135,7 +135,7 @@ Il va de soi que si votre idée est à mettre dans la case TCOQ (_"T'es C** ou q
 
 Merci Natacha D.
 
-###20h30: C'est l'heure du bar
+### 20h30: C'est l'heure du bar
 
 Nous avons ensuite bravé les intempéries pour nous mettre au chaud dans un bar du centre ville de Montpellier.
 
@@ -175,7 +175,7 @@ Cette pratique a été largement adoptée en Grande-Bretagne et le sera certaine
 
 Merci Claire M.
 
-###13H30 Pierre Valade: Bon flic ou mauvais flic?
+### 13H30 Pierre Valade: Bon flic ou mauvais flic?
 
 Pierre Valade demarrera bientôt sa thèse sous la direction de Stéphane Loisel. Il dispose d'une expérience solide des compagnies d'assurance et de l'actuariat. Il travaille actuellement pour l'[Autorité du Contrôle Prudentiel et de Résolution][ACPR], qui veille à la préservation de la stabilité du système financier et à la protection des clients/assurés/adhérents/bénéficiaires. L'ACPR veille aussi au respect des réglementations européenne en vigueur en auditant les compagnies d'assurance (Ils envoient des brigades!).
 
@@ -215,7 +215,7 @@ Nous remercions la chaire actuariat durable pour avoir sponsorisé en partie cet
 
 
 
-###Retrouvez les différentes présentations par ordre d'apparition
+### Retrouvez les différentes présentations par ordre d'apparition
 * **Alexandre Boumezoued**, Dynamiques des populations: Construction et applications à la longévité. [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Boum_Montpellier_081114.pdf)
 * **Alexandre Mornet**, De la création d'un indice tempête et de l'utitisation de la variable kilométrage en assurance auto [(PDF)](/Files/PresentationWeTeamBuilding/Alex-Mornet-Montpellier 2014.pdf)
 * **Julien Vedani**, Valorisation économique en asurance vie [(PDF)](/Files/PresentationWeTeamBuilding/SeminaireMontpellier081114vPOG.pdf)
