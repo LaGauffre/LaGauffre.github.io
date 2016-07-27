@@ -4,7 +4,8 @@ title: Presentations
 permalink: /Presentations/
 ---
 
-* 3rd Young Researcher Meeting in Probability, Numerics and Finance, Le Mans, 2016
+* 3rd Young Researcher Meeting in Probability, Numerics and Finance, Le Mans, 2016.
+[Boundary crossing problem: Application to risk Management ](/Presentations/YoungResearcherInProbability.pdf)
 * AMERISKA Conference on Risk Extremes and Contagion, Nanterre Paris Ouest, 2016.
 * AMERISKA Conference on Risk Extremes and Contagion (Université de Nanterre Paris Ouest), Paris, 2016.
 * ULB/UCL Joint seminar(Université Libre de Bruxelles), Brussels, 2016.
