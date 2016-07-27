@@ -4,7 +4,11 @@ title: Presentations
 permalink: /Presentations/
 ---
 
-* Workshop on Dependence, copulas and actuarial science (Semaine Thématique du CIRM), Marseille, 2015.
+* 3rd Young Researcher Meeting in Probability, Numerics and Finance, Le Mans, 2016
+* AMERISKA Conference on Risk Extremes and Contagion, Nanterre Paris Ouest, 2016.
+* AMERISKA Conference on Risk Extremes and Contagion (Université de Nanterre Paris Ouest), Paris, 2016.
+* ULB/UCL Joint seminar(Université Libre de Bruxelles), Brussels, 2016.
+* Workshop on Dependence, copulas and actuarial science (Semaine Thématique du CIRM), Marseille, 2016.
 [Orthonormal polynomial expansions and lognormal sum densities](/Presentations/SemaineThematiqueCIRMGoffard.pdf)
 * Thiele Seminar Aarhus University, Aarhus, 2015.
 [Polynomial approximation of probability density functions with applications to insurance](/Presentations/AUSeminar.pdf)
