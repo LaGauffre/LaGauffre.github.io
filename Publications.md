@@ -20,4 +20,14 @@ permalink: /Publi/
 
 * 2015 S. Asmussen, **P.O. Goffard**, & P. Laub, [Orthonormal polynomial expansions and lognormal sum densities](/Publications/Asmussen_Goffard_Laub_LogNormalPolynomialApproximation.pdf), Working paper.
 
+## Supplementary Materials
+
+Online accompaniment for "Boundary crossing problem of Order Statistics Point processes"
+
+- [Mathematica Package](/Publications/SupplementaryMaterial/BoundaryCrossingOSPP/BoundaryCrossingOSPPBoundaryPackage.wl)
+
+- [Supplementary Material I: Simulation study and statistical applications](/Publications/SupplementaryMaterial/BoundaryCrossingOSPP/BoundaryCrossingOSPPSimulationStudy.nb.)
+
+- [Supplementary Material II: Numerical illustrations](/Publications/SupplementaryMaterial/BoundaryCrossingOSPP/OSPPBoundaryCrossingNumericalIllustrations.nb)
+
 
