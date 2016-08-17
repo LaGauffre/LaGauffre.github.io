@@ -16,9 +16,9 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
-* 2016 **P.O. Goffard**, C. Lefèvre, [Boundary crossing problem for order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf)
+* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing problem for order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf)
 
-* 2016 **P.O. Goffard** [Polynomial approximations suitd for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
+* 2016 **P.O. Goffard**, [Polynomial approximations suitd for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
 
 * 2015 S. Asmussen, **P.O. Goffard**, & P. Laub, [Orthonormal polynomial expansions and lognormal sum densities](/Publications/Asmussen_Goffard_Laub_LogNormalPolynomialApproximation.pdf), Working paper.
 
