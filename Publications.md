@@ -16,7 +16,7 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
-* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing of order statistic point processes](/Publications/BoundaryCrosingOSPPGoffardLefevre.pdf)
+* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing of order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf)
 
 * 2016 **P.O. Goffard**, [Polynomial approximations suitd for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
 
