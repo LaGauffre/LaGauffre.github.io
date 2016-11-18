@@ -12,10 +12,50 @@ In a boundary crossing problem, we have
 
 Many problems in applied probabilty comes down to the study of the distribution of the stopping time corresponding to the rendez-vous of the stochastic process and the upper boundary. Typical field of aplications are sequential analysis, reliability, queueing theory, and the one being at the center of the present post - Risk theory.
 
-In risk theory, a non-life insurance company, operating for instance on the car insurance market, is assumed to be able to follow the evolution of its financial reserves continuously in time. As time goes by, some unfortunate policy-holders are facing hazardous events, a car accident say, causing corporal or material damages. The role of the insurance company is to offer a financial compensation in case of the occurence of a claim. Up to a time horizon $$t\geq0$$, the number of claims is modeled throuhg a counting process $$\{N(t)\text{ ; }t\geq0\}$$. The classical assumption consists in opting for a homogeneous Poisson process. The losses, from the insurance company point of view, associated to each claim form a sequence $$\{U_k\text{ ; }k\geq1\}$$ of **i.i.d.**, non-negative random variables. The expenses of the insurance company at time $$t$$ are of amounts $$\left\{X(t)=\sum_{k=1}^{N(t)}U_k \text{ ; }t\geq0\right\}$$. To benefit from the services of the insurance company, the customers pay a premium. The large number of policy-holders in the portfolios enables to approximate the premium flow as a linear function of time with a slope $$c\geq0$$. The financial health and stability of the insurance company coincides with a wealth remaining positive over time. A negative financial reserve is synonymous of bankruptcy. In order to avoid an early ruin situations, the insurance company holds an initial capital of amount $$u\geq0$$. Adding up all the aforementionned elements yields the risk reserve process $$\{R(t)\text{ ; }t\geq0\}$$, defined as
+In risk theory, a non-life insurance company, operating for instance on the car insurance market, is assumed to be able to follow the evolution of its financial reserves continuously in time. As time goes by, some unfortunate policy-holders are facing hazardous events, a car accident say, causing corporal or material damages. The role of the insurance company is to offer a financial compensation in case of the occurence of a claim. Up to a time horizon $$t\geq0$$, the number of claims is modeled throuhg a counting process $$\{N(t)\text{ ; }t\geq0\}$$. The classical assumption consists in opting for a homogeneous Poisson process. The losses, from the insurance company point of view, associated to each claim form a sequence $$\{U_k\text{ ; }k\geq1\}$$ of **i.i.d.**, non-negative random variables. The expenses of the insurance company at time $$t$$ are of amounts $$\left\{X(t)=\sum_{k=1}^{N(t)}U_k \text{ ; }t\geq0\right\}$$. To benefit from the services of the insurance company, the customers pay a premium. The large number of policy-holders in the portfolios enables to approximate the premium flow as a linear function of time with a slope $$c\geq0$$. The financial health and stability of the insurance company coincides with a wealth remaining positive over time. A negative financial reserve is synonymous of bankruptcy. In order to avoid an early ruin situation, the insurance company holds an initial capital of amount $$u\geq0$$. Adding up all the aforementionned elements yields the risk reserve process $$\{R(t)\text{ ; }t\geq0\}$$, defined as
 
 $$
 R(t)=u+ct-\sum_{k=1}^{N(t)}U_k.
+$$
+
+Herafter a visualization of the process
+$$
+
+\begin{tikzpicture}
+  %Origin and axis
+  \coordinate (O) at (0,0);
+  %Former axis
+  \draw[dotted,black,->] (0,-0.5) -- (0,9) coordinate[label = {right:$s$}] (xmax);
+  \draw[dotted,black,->] (3,0) -- (-5,0) coordinate[label = {below:$y$}] (ymax);
+  \draw[black,->] (3,1.5) -- (-5,1.5) coordinate[label = {below:$t$}] (xmax);
+  \draw[black,->] (0,0) -- (0,8.5) coordinate[label = {right:$x$}] (ymax);
+  %upper linear boundary
+  \draw[thick,red] (2,0) -- (-5,9.33);
+  \draw (2,0) node[red,below] {$-v$} node{\color{red}$\bullet$};
+  \draw (0,2.66) node[red,above right] {$u=\frac{v}{d}-\Delta S_1$} node{\color{red}$\bullet$};
+  %Stochastic process trajectory
+  \draw[very thick,dotted,blue] (0,0) -- (0,1.5) node[pos=0.5, left] {$\Delta S_1$} ;
+  \draw[very thick,blue] (0,1.5) -- (-1.5,1.5) node[pos=0.5, above] {$Y_1$};
+  \draw[very thick,dashed,blue] (-1.5,1.5) -- (-1.5,2.5) node[pos=0.5, left] {$\Delta S_2$};
+  \draw[very thick,blue] (-1.5,2.5) -- (-3,2.5) node[pos=0.5, above] {$Y_2$};
+  \draw[very thick,dashed,blue] (-3,2.5) -- (-3,5) node[pos=0.5, left] {$\Delta S_3$};
+  \draw[very thick,blue] (-3,5) -- (-3.75,5) node[pos=0.5, above] {$Y_3$};
+  \draw[very thick,dashed,blue] (-3.75,5) -- (-3.75,9) node[pos=0.5, left] {$\Delta S_4$};
+  % %Jump Times
+  % \draw (0,1.5) node[blue,left] {$S_1$} node{ \color{blue}$\bullet$};
+  \draw (0,2.5) node[blue,right] {\hspace{0.3cm}$S_2-\Delta S_1$} node{ \color{blue}$\bullet$};
+  \draw (0,5) node[blue,right] {$S_3-\Delta S_1$} node{ \color{blue}$\bullet$};
+  Aggregated Capital gains
+  \draw (-1.5,1.5) node[blue,below] {$\nu_1$} node{\color{blue}$\vert$};
+  \draw (-3,1.5) node[blue,below right] {$\nu_2$} node{ \color{blue}$\vert$};
+  % \draw (-3.75,1.5) node[blue,below] {$$} node{ \color{blue}$\vert$};
+  %Ruin time in the insurance risk model = First-crossing time
+  \draw (-3.75,1.5) node[black,below] {$\tau_u=\nu_3$} node{\color{black}$\times$};
+  \draw[dotted,black] (-3.75,1.5) -- (-3.75,7.66);
+  \draw[dotted,black] (-3.75,7.66) -- (0,7.66);
+  %Ruin time in the dual risk model = First-crossing time
+  \draw (0,7.66) node[black,right] {$\sigma_v-\Delta S_{1}=\frac{\tau_u}{d}+u$} node{\color{black}$\times$};
+\end{tikzpicture}
 $$
 
 We focus our interest on the distribution of the first-crossing time $$\tau_\beta=\{t\geq0\text{ ; }X(t)\geq h_{\beta}(t)\}$$, when the stochastic process passes through the boundary. In our setting, the stochastic process is of jumping type. At random times $$\{T_n\text{ ; }n\geq1\}$$, it makes jumps of random heights $$\{U_n\text{ ; }n\geq1\}$$ in order to get closer to the moving boundary, we assume additionally that the process starts at the origin of the axis, i.e. $$X(0)=0$$. The figure bellow provides a visualization of the crossing problem.

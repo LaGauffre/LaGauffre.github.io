@@ -6,6 +6,8 @@ permalink: /Publi/
 
 ## Accepted/Published
 
+* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing of order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf), Journal of Mathematical Analysis and Applications
+
 * 2015 **P.O. Goffard**, S. Loisel & D. Pommeret, [Polynomial approximations for bivariate aggregate claims amount probability distributions](/Publications/Goffard_Loisel_Pommeret_RevisedVersion1.pdf), Methodology and Computing in Applied Probability.
 
 * 2015 **P.O. Goffard**, [Approximations polynomiales de densités de probabilité et applications en assurance](/Publications/Main.pdf), PhD Thesis, Aix-Marseille University.
@@ -16,7 +18,7 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
-* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing of order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf)
+* 2016 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/POGoffard,CLefevre,OS(Dual)RiskModelSubmitted.pdf), preprint
 
 * 2016 **P.O. Goffard**, [Polynomial approximations suitd for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
 
