@@ -20,7 +20,7 @@ permalink: /Publi/
 
 * 2017 **P.O. Goffard**, [Two-sided exit problems in the ordered risk model](/Publications/Goffard_FirstExitTime_Main.pdf), preprint
 
-* 2016 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/Revision of IME_2016_440 Goffard, Lefevre.pdf), preprint
+* 2016 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/RevisionIME_2016_440 GoffardLefevre.pdf), preprint
 
 * 2016 **P.O. Goffard**, [Polynomial approximations suitd for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
 
