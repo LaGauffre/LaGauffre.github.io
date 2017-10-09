@@ -18,6 +18,8 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
+* 2017 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/GoffardSarantsevExponentialRateRuinProbabilities.pdf), preprint
+
 * 2017 **P.O. Goffard**, [Two-sided exit problems in the ordered risk model](/Publications/Goffard_FirstExitTime_Main.pdf), preprint
 
 * 2016 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/RevisionIME_2016_440 GoffardLefevre.pdf), preprint
