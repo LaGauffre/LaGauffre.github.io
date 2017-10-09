@@ -22,7 +22,7 @@ permalink: /Publi/
 
 * 2016 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/RevisionIME_2016_440 GoffardLefevre.pdf), preprint
 
-* 2016 **P.O. Goffard**, [Polynomial approximations suitd for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
+* 2016 **P.O. Goffard**, [Polynomial approximations suited for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
 
 * 2015 S. Asmussen, **P.O. Goffard**, & P. Laub, [Orthonormal polynomial expansions and lognormal sum densities](/Publications/Asmussen_Goffard_Laub_LogNormalPolynomialApproximation.pdf), Working paper.
 
