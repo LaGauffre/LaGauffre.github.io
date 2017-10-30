@@ -18,6 +18,8 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
+* 2017 **P.O. Goffard** & P. Laub, [Two numerical methods to evaluate stop-loss premiums](/Publications/GoffardLaub_PolynomialApproximationCompoundDistribution.pdf), preprint
+
 * 2017 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/GoffardSarantsevExponentialRateRuinProbabilities.pdf), preprint
 
 * 2017 **P.O. Goffard**, [Two-sided exit problems in the ordered risk model](/Publications/Goffard_FirstExitTime_Main.pdf), preprint
