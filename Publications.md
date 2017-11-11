@@ -6,7 +6,9 @@ permalink: /Publi/
 
 ## Accepted/Published
 
-* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing of order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf), Journal of Mathematical Analysis and Applications
+* 2017 **P.O. Goffard**, [Two-sided exit problems in the ordered risk model](/Publications/Goffard_FirstExitTime_Rg.pdf), Methodology and Computing in Applied probability.
+
+* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing of order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf), Journal of Mathematical Analysis and Applications.
 
 * 2015 **P.O. Goffard**, S. Loisel & D. Pommeret, [Polynomial approximations for bivariate aggregate claims amount probability distributions](/Publications/Goffard_Loisel_Pommeret_RevisedVersion1.pdf), Methodology and Computing in Applied Probability.
 
@@ -22,9 +24,7 @@ permalink: /Publi/
 
 * 2017 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/GoffardSarantsevExponentialRateRuinProbabilities.pdf), preprint
 
-* 2017 **P.O. Goffard**, [Two-sided exit problems in the ordered risk model](/Publications/Goffard_FirstExitTime_RevisedVersion.pdf), preprint
-
-* 2016 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/Goffard_Lefevre_RuinTimeOrderedDualRiskModel.pdf), preprint
+* 2016 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/GoffardLefevreOrderedDualRiskModel.pdf), preprint
 
 * 2016 **P.O. Goffard**, [Polynomial approximations suited for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), Working paper.
 
