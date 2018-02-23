@@ -25,6 +25,8 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
+* 2018 **P.O. Goffard**, [Fraud risk assessment within blockchain transactions](/Publications/FraudRiskAssessmentWithinBlockChainTransaction_Goffard0218.pdf), preprint
+
 * 2017 **P.O. Goffard** & P. Laub, [Two numerical methods to evaluate stop-loss premiums](/Publications/GoffardLaub_PolynomialApproximationCompoundDistribution.pdf), preprint
 
 * 2017 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/GoffardSarantsevExponentialRateRuinProbabilities.pdf), preprint
