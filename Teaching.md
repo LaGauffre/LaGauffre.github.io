@@ -3,23 +3,23 @@ layout: page
 title: Teaching
 permalink: /Teaching/
 ---
-## ISFA
+# ISFA
 
 ### L3
 
-* Intégration
+* Intégration et théorie de la mesure
 
   - [Chapitre I: Introduction](/Teaching/Intégration_ISFA/Chap1_Intro.pdf)
   - [Chapitre II: Tribus et mesure](/Teaching/Intégration_ISFA/Chap2_Tribu_Mesure.pdf)
 
 ### M1
 
-* Modèle aléatoire discret
+* Modèles aléatoires discrets
 
   - [Chapitre I: Introduction](/Teaching/MAD_ISFA/Chap1_MAD_Intro.pdf)
   - [Activité Python 1](/Teaching/MAD_ISFA/1. Simulation et calcul matriciel.ipynb)
 
-## UCSB
+# UCSB
 
 ### 2016-2017
 
@@ -36,6 +36,7 @@ permalink: /Teaching/
 
 
 ### 2017-2018
+
 * PSTAT296: Research projects in actuarial science
 * PSTAT130: Introduction to SAS
 
