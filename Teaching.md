@@ -4,17 +4,27 @@ title: Teaching
 permalink: /Teaching/
 ---
 ## ISFA
+
 ### L3
+
 * Intégration
+
   - [Chapitre I: Introduction](/Teaching/Intégration_ISFA/Chap1_Intro.pdf)
   - [Chapitre II: Tribus et mesure](/Teaching/Intégration_ISFA/Chap2_Tribu_Mesure.pdf)
+
 ### M1
+
 * Modèle aléatoire discret
+
   - [Chapitre I: Introduction](/Teaching/MAD_ISFA/Chap1_MAD_Intro.pdf)
   - [Activité Python 1](/Teaching/MAD_ISFA/1. Simulation et calcul matriciel.ipynb)
+
 ## UCSB
+
 ### 2016-2017
+
 * PSTAT 130: Introduction to SAS
+
   - Fall quarter [Evaluations1](/Evaluations/GoffardP_130_F1704634220161207135733.pdf) [Evaluations2](/Evaluations/GoffardP_130_F1704634320161207135848.pdf) [Stats1](/Evaluations/2016_4F_E_PA_FAC_GOFFARD_P_M_PSTAT__130__0100.pdf) [Stats2](/Evaluations/2016_4F_E_PA_FAC_GOFFARD_P_M_PSTAT__130__0200.pdf)
   - Spring quarter [Evaluations](/Evaluations/Goffard_130_s17.pdf) [Stats](/Evaluations/2017_2S_E_PA_FAC_GOFFARD_P_M_PSTAT__130__0100.pdf)
 
