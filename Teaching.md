@@ -11,6 +11,7 @@ permalink: /Teaching/
 
   - [Chapitre I: Introduction](/Teaching/Intégration_ISFA/Chap1_Intro.pdf)
   - [Chapitre II: Tribus et mesure](/Teaching/Intégration_ISFA/Chap2_Tribu_Mesure.pdf)
+  - [Chapitre III: Fonctions mesurables](/Teaching/Intégration_ISFA/Chap3_Fonction_Mesurable_VAR.pdf)
 
 ### M1
 
@@ -18,6 +19,8 @@ permalink: /Teaching/
 
   - [Chapitre I: Introduction](/Teaching/MAD_ISFA/Chap1_MAD_Intro.pdf)
   - [Activité Python 1](/Teaching/MAD_ISFA/1. Simulation et calcul matriciel.ipynb)
+  - [Chapitre II: Chaine de Markov](/Teaching/MAD_ISFA/Chap2_MAD_Markov_Chain.pdf)
+  - [Chapitre III: Processus de Poisson](/Teaching/MAD_ISFA/Chap3_MAD_Processus_Poisson.pdf)
 
 # UCSB
 
