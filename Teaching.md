@@ -20,9 +20,9 @@ permalink: /Teaching/
 * Modèles aléatoires discrets
 
   - [Chapitre I: Introduction](/Teaching/MAD_ISFA/Chap1_MAD_Intro.pdf)
-  - [Activité Python 1](/Teaching/MAD_ISFA/1. Simulation et calcul matriciel.ipynb)
+  - [Activité Python 1](/Teaching/MAD_ISFA/1. Simulation et calcul matriciel.pdf)
   - [Chapitre II: Chaine de Markov](/Teaching/MAD_ISFA/Chap2_MAD_Markov_Chain.pdf)
-  - [Chapitre III: Processus de Poisson](/Teaching/MAD_ISFA/Chap3_MAD_Processus_Poisson .pdf)
+  - [Chapitre III: Processus de Poisson](/Teaching/MAD_ISFA/Chap3_MAD_Processus_Poisson.pdf)
 
 # UCSB
 
