@@ -6,6 +6,8 @@ permalink: /Publi/
 
 ## Accepted/Published
 
+* 2019 **P.O. Goffard**, [Fraud risk assessment within blockchain transactions](/Publications/Fraud_Risk_Assessment_Blockchain_APT.pdf), Advances in Applied Probability.
+
 * 2017 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/GoffardLefevreOrderedDualRiskModel.pdf), Insurance: Mathematics and Economics.
 
 * 2017 **P.O. Goffard**, [Two-sided exit problems in the ordered risk model](/Publications/Goffard_FirstExitTime_Rg.pdf), Methodology and Computing in Applied probability.
@@ -24,8 +26,6 @@ permalink: /Publi/
 * 2015 **P.O. Goffard**, [Approximations polynomiales de densités de probabilité et applications en assurance](/Publications/Main.pdf), PhD Thesis, Aix-Marseille Université.
 
 ## Submitted/Under revision
-
-* 2018 **P.O. Goffard**, [Fraud risk assessment within blockchain transactions](/Publications/FraudRiskAssessmentWithinBlockChainTransaction_Goffard0218.pdf), preprint
 
 * 2017 **P.O. Goffard** & P. Laub, [Two numerical methods to evaluate stop-loss premiums](/Publications/GoffardLaub_PolynomialApproximationCompoundDistribution.pdf), preprint
 
