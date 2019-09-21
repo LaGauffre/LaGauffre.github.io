@@ -6,6 +6,8 @@ permalink: /Publi/
 
 ## Accepted/Published
 
+* 2019 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/Risk Theory (12).pdf), preprint
+
 * 2019 **P.O. Goffard**, [Fraud risk assessment within blockchain transactions](/Publications/Fraud_Risk_Assessment_Blockchain_APT.pdf), Advances in Applied Probability.
 
 * 2018 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/GoffardLefevreOrderedDualRiskModel.pdf), Insurance: Mathematics and Economics.
@@ -29,9 +31,8 @@ permalink: /Publi/
 
 * 2019 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with applications in insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), preprint
 
-* 2017 **P.O. Goffard** & P. Laub, [Two numerical methods to evaluate stop-loss premiums](/Publications/GoffardLaub_PolynomialApproximationCompoundDistribution.pdf), preprint
-
-* 2017 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/GoffardSarantsevExponentialRateRuinProbabilities.pdf), preprint
+* 2017 **P.O. Goffard** & P. Laub, [Orthogonal polynomial expansions to evaluate
+stop-loss premiums](/Publications/Goffard_Laub_SLP.pdf), preprint
 
 
 ## Non peer-reviewed
