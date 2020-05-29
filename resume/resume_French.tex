@@ -1,0 +1,187 @@
+% Copyright (c) 2014 Pierre-Olivier Goffard
+% Released under the MIT Licence (http://opensource.org/licences/MIT)
+
+% Silencing some errors, cf http://tex.stackexchange.com/a/60995
+\RequirePackage[]{silence}
+\WarningsOff[hyperref]
+
+% Sans-serif
+\renewcommand{\familydefault}{\sfdefault}
+
+\documentclass[11pt,a4paper]{moderncv}
+\moderncvtheme[blue]{classic}
+\usepackage[utf8]{inputenc}
+\usepackage{eurosym}
+\usepackage{color}
+\usepackage[top=1cm, bottom=1cm, left=1.8cm, right=1.8cm]{geometry}
+\setlength{\hintscolumnwidth}{2.8cm}
+\nopagenumbers{}
+
+% Programming Languages would be blue and in italic
+\definecolor{plblue}{rgb}{0.22,0.45,0.70}% light blue
+\newcommand{\pl}[1]{\textit{\color{plblue} #1}}
+%ULB
+%Campus de la Plaine
+%Boulevard du Triomphe – CP 210
+%B-1050 Bruxelles
+% Identity
+\firstname{Pierre-O.}
+\familyname{Goffard}
+\title{Enseignant-Chercheur}
+\address{Institut de Science Financière et d'a
+Assurances}{Université Claude Bernard Lyon 1}
+\email{pierre-olivier.goffard@univ-lyon1.fr}
+\homepage{pierre-olivier.goffard.me}
+%\phone{+33 674 293 348}
+\photo[46pt][0pt]{PhotoIdentite2}
+\extrainfo{Français, 31 ans}
+%\extrainfo{\raisebox{-1mm}{\includegraphics[height=11pt]{octocatvector.eps}}
+%    \href{https://github.com/LaGauffre}{github.com/LaGauffre}}
+
+% Rock'n roll!
+\begin{document}
+
+\maketitle
+
+%\section{Objective}
+%\cvline{2014}{Design, build and ship awesome web products with great clients using Lean \& Agile}
+\section{Introduction}
+Je m'appelle Pierre-Olivier Goffard, je suis enseignant-chercheur à l'université de Lyon 1 depuis Septembre 2018. Je suis instructeur à l'Institut de Science Financière et d'Assurance. Ma recherche se fonde sur l'application des mathématiques à la gestion des risques dans les compagnies d'assurance et associé à l'utilisation des nouvelles technologiques. J'ai besoin d'interagir avec les acteurs du secteur de l'assurance de façon à rendre ma recherche pertinente et utile. Les problématiques auxquelles je m'intéresse en ce moment sont très orientées vers les méthodes statistiques Bayésiennes et d'apprentissage. Le développement de nouveaux outils nécessite le concours des compagnies d'assurance pour pouvoir tester les méthodologies sur leurs historiques de données. Les intéractions avec les entreprises sont aussi importantes pour rendre mon enseignement plus empreint de la réalité du terrain et partant de mieux préparer les étudiants. Pour toutes ces raisons, je souhaite de tout coeur participer à des initiatives telles que la chaire de recherche DIALOG sponsorisée par CNP assurance. La recherche a besoin d'être d'une part motivés par des problématiques du monde réelle et d'autre part sponsorisée pour permettre une plus large diffusion avec la participation à des colloques. Vous trouverez ci-dessous mon CV détaillé.  
+\section{Expérience Professionelle}
+\cventry{Depuis Septembre 2018}{Enseignant-Chercheur (Maître de conférence)}{\href{https://isfa.univ-lyon1.fr/}{\pl{ISFA}}}{Lyon}{France}{}
+\cventry{2016--2018}{Enseignant-Chercheur Post-Doctoral}{\href{http://www.ucsb.edu/}{\pl{University of California in Santa Barbara}}}{Santa Barbara}{USA}{}
+\cventry{2015--2016}{Chercheur Post-Doctoral}{\href{https://www.ulb.ac.be}{\pl{Université Libre de Bruxelles}}}{Bruxelles}{Belgique}{}
+\cventry{Aug.-November 2015}{Chercheur Post-Doctoral}{\href{http://www.au.dk/en/}{\pl{Aarhus university}}}{Aarhus}{Danemark}{}
+\cventry{2011--2015}{Doctorant et chargé d'études actuarielles}{\href{http://univ-amu.fr}{\pl{Aix-Marseille university}} et \href{http://axafrance.fr} {\pl{AXA France}} (Thèse en convention CIFRE)}{Marseille}{France}{}
+%\cventry{April - September 2011}{Project Manager (intern)}{\href{http://axafrance.fr} {\pl{AXA France}}}{Marseille}{France}{
+%\begin{itemize}
+%\item Optimization of the aggregation procedure of the AXA France life insurance portfolio of savings contracts.
+%\end{itemize}
+%}
+%\cventry{May - July 2010}{Project Manager Assistant (intern)}{\href{http://ifremer.fr/brest} {\pl{IFREMER}}}{Brest}{France}{
+%\begin{itemize}
+%\item Development of composite indicators to help decision making 
+%\end{itemize}
+%}
+%\cventry{July - August 2009}{Marketing Assistant (intern)}{\href{http://cmb.fr} {\pl{Crédit Mutuel de Bretagne}}}{Brest}{France}{
+%\begin{itemize}
+%\item Various activities (computer science and basic statistical analysis)
+%\end{itemize}
+%}
+\section{Education}
+%\cventry{Since 2014}{Master of science (M.Sc.)}{\href{http://isfa.univ-lyon1.fr} {\pl{ISFA}}}{Lyon}{France}{
+%\begin{itemize}
+%\item Major: Financial and actuarial sciences
+%\item French actuary diploma (correspondence courses)
+%\end{itemize}
+%}
+\cventry{2011--2015}{Doctorat en mathématiques appliquées}{Aix-Marseille Université}{Marseille}{France}{
+Approximations polynomiales de densités de probabilité et applications en assurance.\\
+Directeurs de thèse: Denys Pommeret (Aix-Marseille) et Stephane Loisel (Lyon I). 
+}
+\cventry{2008--2011}{Dilpôme d'ingénieur statisticien}{\href{http://ensai.fr} {\pl{ENSAI}}}{Rennes}{France}{
+\begin{itemize}
+\item Filière: Génie Statistique
+\item Master Recherche en statistique et économétrie à l'\href{http://univ-rennes1.fr.fr} {\pl{Université de Rennes 1}}, en parallèle de la troisième année à l'ENSAI.
+\end{itemize}
+}
+\cventry{2006--2008}{Classes Préparatoires}{\href{http://dupuydelome-lorient.fr} {\pl{Lycée Dupuy de Lôme }}}{Lorient}{France}{MPSI-MP}
+\section{Compétences}
+\cvline{Technique}{Probabilités et statistiques pour la finance et l'assurance (ou pour n'importe quoi d'autre) 
+}
+\cvline{Informatique}{ R Studio, Python, SAS, Mathematica, Markdown, $Late\chi$
+}
+\cvline{Langues}{Français \emph{(langue maternelle)}, Anglais \emph{(courant)}, Spanish \emph{(notions).}}
+\section{Recherche}
+\cventry{}{Gestion des risques, processus stochastiques, statistiques Bayésienne, mathématique de la \textit{blockchain}}{}{}{}{}
+%\cventry{}{Numerical inversion of Laplace transform}{I work out a numerical method to recover probability density function from the knowledge of their Laplace transform. The desired PDF takes the form of a polynomial expansion. The method extends naturally within a multi-dimensional context and the approximation formula can turn into a nonparametric statistical estimator of the PDF when data are available }{}{}{}
+%\cventry{}{Ruin theory}{In ruin theory, we model the financial reserves of a non life insurance company using stocastic processes. We aim at computing the probability that the financial reserves falls below $0$. This quantity, aka probability of ruin, is tricky to capture and motivates the use of numerical methods such as those involving Laplace transform inversion}{}{}{}
+\section{Enseignement}
+\cventry{2018-2020}{Instructeur}{\href{https://isfa.univ-lyon1.fr/} {\pl{ISFA}}}{Lyon}{France}{
+Niveau Licence et Master
+\begin{itemize}
+\item Modélisation Charge-Sinistre 
+\item Introduction au logiciel SAS 
+\item Modèles Aléatoires Discrets 
+\item Introduction à R 
+\item Théorie de la mesure et intégration 
+\end{itemize}
+}
+
+\cventry{2016-2018}{Instructeur}{\href{http://www.ucsb.edu/} {\pl{UCSB}}}{Santa Barbara}{USA}{
+Niveau Licence et Master
+\begin{itemize}
+\item PSTAT130: Introduction au logiciel SAS (niveau licence)
+\item PSTAT296: Projet de recherche en actuariat (niveau master)
+\item PSTAT120A: Introduction au calcul de probabilité (niveau licence)
+\item PSTAT160A: Processus stochastiques en temps discret et chaines de Markov (niveau licence)
+\end{itemize}
+}
+
+\section{Publications}
+\subsection{Acceptés}
+\cventry{2019}{\underline{P.O. Goffard} and Andrey Sarantsev}{Exponential convergence rate of ruin probabilities for Level-dependent L\'evy driven risk process}{}{\textit{to appear in} Journal of Applied Probability}{}
+\cventry{2019}{\underline{P.O. Goffard}}{Fraud risk assessment within blockchain transactions}{}{\textit{to appear in} Advances in Applied Probability}{}
+\cventry{2018}{\underline{P.O. Goffard}, \&  Claude Lefèvre}{Duality in ruin problems for ordered risk models}{}{\textit{78, 44-52} Insurance: Mathematics and Economics}{}
+\cventry{2017}{\underline{P.O. Goffard}}{Two-sided exit problems in the ordered risk model}{}{\textit{to appear in} Methodology and Computing in Applied Probability}{}
+\cventry{2017}{\underline{P.O. Goffard}, \&  Claude Lefèvre}{Boundary crossing problem of order statistic point processes}{447(2):890-907}{Journal of Mathematical Analysis and Applications}{}
+\cventry{2017}{\underline{P.O. Goffard}, Stephane Loisel \&  Denys Pommeret}{Polynomial approximations for bivariate aggregate claims amount probability distributions}{19(1):151-174}{Methodology and Computing in Applied Probability}{}
+\cventry{2016}{\underline{P.O. Goffard}, Stephane Loisel \&  Denys Pommeret}{A polynomial expansion to approximate the ultimate ruin probability in the compound Poisson ruin model}{296:499-511}{Journal of Computational and Applied Mathematics}{}
+\cventry{2015}{\underline{P.O. Goffard} \&  Xavier Guerrault}{Is it optimal to group policyholders by age, gender, and seniority for BEL computations based on model points?}{5(1):165-180}{European Actuarial Journal}{}
+\subsection{Chapitre de livre}
+\cventry{2017}{Søren Asmussen, \underline{P.O. Goffard}, \&  Patrick Laub}{Orthonormal polynomial expansion and lognormal sum densities}{}{Risk and Stochastics - Festschrift for Ragnar Norberg}{}
+
+\subsection{Soumis/En révision}
+\cventry{2019}{\underline{P.O. Goffard} and Patrick Laub}{Orthogonal polynomial expansions to evaluate
+stop-loss premiums}{}{Working paper}{}
+\cventry{2019}{\underline{P.O. Goffard}, Sreenivas Jammalamadaka, and Simos Meintanis}{Goodness-of-fit tests for compound distributions with applications in insurance}{}{Working paper}{}
+
+
+\section{Communications récentes}
+\cventry{Allemagne 2019}{IME Conference}{Munich}{}{}{}
+\cventry{Colombie 2019}{ICASQF Conference}{Manizales}{}{}{}
+\cventry{Romanie 2019}{Perspective on Actuarial Risks in Talks of Young Researchers}{Sibiu}{}{}{}
+\cventry{Royaume-Uni 2019}{Séminaire de recherche London School of Economics}{London}{}{}{}
+\cventry{Royaume-Uni 2019}{Séminaire de recherche CASS Business School}{London}{}{}{}
+\cventry{Espagne 2018}{International Workshop on Simulations (IWS) 2018}{Barcelona}{}{}{}
+\cventry{Hongrie 2018}{International Workshop on Applied Probability (IWAP) 2018}{Budapest}{}{}{}
+\cventry{Etats-Unis 2018}{CFMAR Seminar at UCSC}{Santa Cruz}{}{}{}
+\cventry{Etats-Unis 2018}{Seminar at UCSB}{Santa Barbara}{}{}{}
+\cventry{Etats-Unis 2017}{CFMAR Seminar at UCSB}{Santa Barbara}{}{}{}
+\cventry{Etats-Unis 2017}{Seminar at UCSD}{San Diego}{}{}{}
+\cventry{Etats-Unis 2017}{Seminar at UIOWA}{Iowa City}{}{}{}
+\cventry{Panama 2017}{2017 ASTIN AFIR/ERM Colloquium}{Panama City}{}{}{}
+% \cventry{USA 2017}{$10^{th}$ anniversary of the CFMAR conference }{Santa Barbara}{}{}{}
+% \cventry{USA 2017}{Seminar at USC}{Los Angeles}{}{}{}
+% \cventry{USA 2016}{Seminar at UCSB}{Santa Barbara}{}{}{}
+% \cventry{France 2016}{$3^{rd}$ European Actuarial Journal Conference}{Lyon}{}{}{}
+% \cventry{France 2016}{$3^{rd}$ of yound researchers in probability, numerics and finance}{Le Mans}{}{}{}
+% \cventry{France 2016}{AMERISKA Conference}{Paris}{}{}{}
+% \cventry{Belgium 2016}{Joint ULB-UCL seminar}{Brussels}{}{}{}
+% \cventry{France 2016}{Thematic week on dependence, extreme and actuarial science}{Marseille}{}{}{}
+% \cventry{UK 2015}{CASS Business School Seminar}{London}{}{}{}
+% \cventry{Denmark 2015}{Thiele Seminar}{Aarhus}{}{}{}
+% \cventry{France 2015}{Université d'été de l'institut des actuaires}{Brest}{}{}{}
+% \cventry{France 2015}{PhD Thesis oral defense}{Marseille}{}{}{}
+% \cventry{UK 2015}{$19^{th}$ International Congress on insurance, mathematics, and economics}{Liverpool}{}{}{}
+% \cventry{France 2014}{$46^{ème}$ journées de statistique}{Rennes}{}{}{}
+% \cventry{Germany 2013}{Conference on Advances in Financial and Insurance Risk Manangement}{Munich}{}{}{}
+% \cventry{France 2013}{$5^{ème}$ Rencontre des Jeunes Statisticiens}{Aussois}{}{}{}
+% \cventry{France 2013}{$45^{ème}$ journées de statistique}{Toulouse}{}{}{}
+% \cventry{Switzerland 2013}{Perspective on Actuarial Risks in Talks of Young Researchers}{Ascona}{}{}{}
+
+\section{Distinctions}
+\cventry{France 2015}{\href{http://scor.com/en/careers/actuarial-prize/library-of-prizes.html}{\pl{prix SCOR}} du jeune docteur en actuariat}{Paris}{}{}{}
+% \section{Participation à des comités de lecture}
+% \cventry{}{Methodology and Computing in Applied Probability }{MCAP}{}{}{}
+% \cventry{}{European Actuarial Journal }{EAJ}{}{}{}
+% \cventry{}{Risks}{}{}{}{}
+% \cventry{}{Insurance: Mathematics and Economics}{IME}{}{}{}
+% \cventry{}{Operation Research Letters}{ORL}{}{}{}
+% \section{Hobbies}{
+% \cvitem{Musique}{Guitare (autour d'un feu de camp)}
+% \cvitem{Sports}{Surf, windsurf, football}}
+
+
+
+\end{document}
