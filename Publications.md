@@ -6,7 +6,9 @@ permalink: /Publi/
 
 ## Accepted/Published
 
-* 2019 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/Risk Theory (12).pdf), preprint
+* 2020 **P.O. Goffard** & P. Laub, [Orthogonal polynomial expansions to evaluate stop-loss premiums](/Publications/Goffard_Laub_SLP.pdf), [Journal of Computationnal and Applied Mathematics](https://doi.org/10.1016/j.cam.2019.112648)
+
+* 2019 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/Risk Theory (12).pdf), [Journal of Applied Probability]( https://doi.org/10.1017/jpr.2019.71)
 
 * 2019 **P.O. Goffard**, [Fraud risk assessment within blockchain transactions](/Publications/Fraud_Risk_Assessment_Blockchain_APT.pdf), Advances in Applied Probability.
 
@@ -29,10 +31,11 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
-* 2019 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with applications in insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), preprint
+* 2020 H. Albrecher & **P.O. Goffard** [On the profitability of selfish blockchain mining under consideration of ruin](/Publications/Albrecher_Goffard_Selfish_Mine.pdf), preprint
 
-* 2017 **P.O. Goffard** & P. Laub, [Orthogonal polynomial expansions to evaluate
-stop-loss premiums](/Publications/Goffard_Laub_SLP.pdf), preprint
+* 2020 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with an application to insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), preprint
+
+
 
 
 ## Non peer-reviewed
