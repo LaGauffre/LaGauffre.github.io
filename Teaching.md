@@ -9,20 +9,34 @@ permalink: /Teaching/
 
 * Intégration et théorie de la mesure
 
-  - [Chapitre I: Introduction](/Teaching/Intégration_ISFA/Chap1_Intro.pdf)
-  - [Chapitre II: Tribus et mesure](/Teaching/Intégration_ISFA/Chap2_Tribu_Mesure.pdf)
-  - [Chapitre III: Fonctions mesurables](/Teaching/Intégration_ISFA/Chap3_Fonction_Mesurable_VAR.pdf)
-  - [Chapitre IV: Intégration](/Teaching/Intégration_ISFA/Chap4_Integration.pdf)
-  - [Planche d'exercices](/Teaching/Intégration_ISFA/TD_Intégration.pdf)
+  - [Chapitre 0: Introduction](/Teaching/Intégration_ISFA/Chap0_Intro.pdf)
+  - [Chapitre I: Tribus et mesure](/Teaching/Intégration_ISFA/Chap1_tribus_mesures_applications_mesurables.pdf)
+  - [Chapitre II: Fonctions mesurables](/Teaching/Intégration_ISFA/Chap2_integration.pdf)
+  - [Chapitre III: Intégration](/Teaching/Intégration_ISFA/Chap3_complement_integration.pdf)
+
+* Introduction à R
+
+  - [Chapitre I: base R](/Teaching/R_ISFA/IntroR---Chapitre-I---base-R.html)
+  - [Chapitre II: Tribus et mesure](/Teaching/R_ISFA/IntroR---Chapitre-II---Visualisation-Graphique.html)
+  - [Chapitre III: Fonctions mesurables](/Teaching/R_ISFA/IntroR---Chapitre-III---Manipulation-des-donnees.html)
+  - [Chapitre IV: Intégration](/Teaching/R_ISFA/IntroR---Chapitre-IV---Fonctions-et-programmation.html)
+
 
 ### M1
 
 * Modèles aléatoires discrets
 
   - [Chapitre I: Introduction](/Teaching/MAD_ISFA/Chap1_MAD_Intro.pdf)
-  - [Activité Python 1](/Teaching/MAD_ISFA/1. Simulation et calcul matriciel.pdf)
   - [Chapitre II: Chaine de Markov](/Teaching/MAD_ISFA/Chap2_MAD_Markov_Chain.pdf)
   - [Chapitre III: Processus de Poisson](/Teaching/MAD_ISFA/Chap3_MAD_Processus_Poisson.pdf)
+
+### M2
+
+* Modélisation Charge-Sinistre
+
+  - [Chapitre I: Introduction](/Teaching/MCS_ISFA/Chap1_Intro.pdf)
+  - [Chapitre II: Chaine de Markov](/Teaching/MCS_ISFA/Chap2_Model_individuel.pdf)
+  - [Chapitre III: Processus de Poisson](/Teaching/MCS_ISFA/Chap3_modele_collectif.pdf)
 
 # UCSB
 
