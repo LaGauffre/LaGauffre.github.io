@@ -31,9 +31,12 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
-* 2020 **P.O. Goffard** & P. Laub [Approximate Bayesian Computations to fit and compare insurance loss models](/Publications/ABCFitLoMo_Goffard_Laub_V2.pdf), preprint
+* 2021 K. Barigou, **P.O. Goffard**, S. Loisel & Y. Salhi [Bayesian model averaging for mortality forecasting
+using leave-future-out validation](/Publications/BMAmortalityforecasting_18032021.pdf), preprint
 
-* 2020 H. Albrecher & **P.O. Goffard** [On the profitability of selfish blockchain mining under consideration of ruin](/Publications/Albrecher_Goffard_Selfish_MineR2.pdf), preprint
+* 2021 **P.O. Goffard** & P. Laub [Approximate Bayesian Computations to fit and compare insurance loss models](/Publications/ABCFitLoMo_Goffard_Laub_V2.pdf), preprint
+
+* 2021 H. Albrecher & **P.O. Goffard** [On the profitability of selfish blockchain mining under consideration of ruin](/Publications/Albrecher_Goffard_Selfish_MineR2.pdf), preprint
 
 * 2020 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with an application to insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), preprint
 
