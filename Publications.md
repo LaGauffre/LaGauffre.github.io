@@ -31,7 +31,7 @@ permalink: /Publi/
 
 ## Submitted/Under revision
 
-* 2020 **P.O. Goffard** & P. Laub [Approximate Bayesian Computations to fit and compare insurance loss models](/Publications/ABCFitLoMo_Goffard_Laub.pdf), preprint
+* 2020 **P.O. Goffard** & P. Laub [Approximate Bayesian Computations to fit and compare insurance loss models](/Publications/ABCFitLoMo_Goffard_Laub_V2.pdf), preprint
 
 * 2020 H. Albrecher & **P.O. Goffard** [On the profitability of selfish blockchain mining under consideration of ruin](/Publications/Albrecher_Goffard_Selfish_MineR2.pdf), preprint
 
