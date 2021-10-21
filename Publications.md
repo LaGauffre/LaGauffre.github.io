@@ -31,7 +31,7 @@ permalink: /Publi/
 ## Chapter in book
 
 * 2021 **P.O. Goffard**, [Echantillonneurs de Monte Carlo séquentiels pour la calibration et la sélection d’un
-modèle composite pour les pertes en assurance non-vie.(/Publications/memoire_actuariat_Goffard_30_09_2021.pdf), Actuarial Science Thesis, ISFA, Université Claude Bernard Lyon 1.
+modèle composite pour les pertes en assurance non-vie](/Publications/memoire_actuariat_Goffard_30_09_2021.pdf), Actuarial Science Thesis, ISFA, Université Claude Bernard Lyon 1.
 
 * 2015 S. Asmussen, **P.O. Goffard**, & P. Laub, [Orthonormal polynomial expansions and lognormal sum densities](/Publications/Asmussen_Goffard_Laub_LogNormalPolynomialApproximation.pdf), Risk and Stochastics - Festschrift for Ragnar Norberg (forthcoming).
 
