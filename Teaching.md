@@ -16,10 +16,18 @@ permalink: /Teaching/
 
 * Introduction à R
 
-  - [Chapitre I: base R](/Teaching/R_ISFA/IntroR---Chapitre-I---base-R.html)
-  - [Chapitre II: Tribus et mesure](/Teaching/R_ISFA/IntroR---Chapitre-II---Visualisation-Graphique.html)
-  - [Chapitre III: Fonctions mesurables](/Teaching/R_ISFA/IntroR---Chapitre-III---Manipulation-des-donnees.html)
-  - [Chapitre IV: Intégration](/Teaching/R_ISFA/IntroR---Chapitre-IV---Fonctions-et-programmation.html)
+  - Séance 1 
+    * [Chapitre I: base R](/Teaching/R_ISFA/IntroR_Chapitre_I_baseR.html)
+    * [Video](https://youtu.be/S2quLFaU19E)
+  - Séance 2
+    * [Chapitre II: Visualisations Graphiques](/Teaching/R_ISFA/IntroR_Chapitre_II_Visualisation_Graphique.html)
+    * [Video](https://youtu.be/dtVIxj990k8)
+  - Séance 3
+    *[Chapitre III: Manipulations des données](/Teaching/R_ISFA/IntroR_Chapitre_III_Manipulation_des_donnees.html)
+    * [Video](https://youtu.be/KlrUCi-d9mI)
+  - Séance 4 
+    * [Chapitre IV: Fonctions et programmation](/Teaching/R_ISFA/IntroR---Chapitre-IV---Fonctions-et-programmation.html)
+    * [Video](https://youtu.be/UgCPf046jC4)
 
 
 ### M1

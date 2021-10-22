@@ -48,7 +48,6 @@ using leave-future-out validation](/Publications/BMAmortalityforecasting_1803202
 
 * 2020 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with an application to insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), preprint
 
-
 ## Non peer-reviewed
 * 2016 **P.O. Goffard**, [Polynomial approximations suited for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), SCOR paper.
 
