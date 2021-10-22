@@ -23,7 +23,7 @@ permalink: /Teaching/
     * [Chapitre II: Visualisations Graphiques](/Teaching/R_ISFA/IntroR_Chapitre_II_Visualisation_Graphique.html)
     * [Video](https://youtu.be/dtVIxj990k8)
   - Séance 3
-    *[Chapitre III: Manipulations des données](/Teaching/R_ISFA/IntroR_Chapitre_III_Manipulation_des_donnees.html)
+    * [Chapitre III: Manipulations des données](/Teaching/R_ISFA/IntroR_Chapitre_III_Manipulation_des_donnees.html)
     * [Video](https://youtu.be/KlrUCi-d9mI)
   - Séance 4 
     * [Chapitre IV: Fonctions et programmation](/Teaching/R_ISFA/IntroR---Chapitre-IV---Fonctions-et-programmation.html)
