@@ -42,7 +42,7 @@ modèle composite pour les pertes en assurance non-vie](/Publications/memoire_ac
 
 ## Submitted/Under revision
 
-* 2021 H. Albrecher, Dina Finger & **P.O. Goffard** [Blockchain mining in pools: Analyzing the trade-off between profitability and ruin](/Publications/blockchain_pool.pdf), preprint
+* 2021 H. Albrecher, Dina Finger & **P.O. Goffard** [Blockchain mining in pools: Analyzing the trade-off between profitability and ruin](/Publications/blockchain_pool_rev2.pdf), preprint
 
 * 2021 **P.O. Goffard** [Sequential Monte Carlo samplers to fit and compare insurance loss models](/Publications/smclomo_goffard_Revised.pdf), preprint
 
