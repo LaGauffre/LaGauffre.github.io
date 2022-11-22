@@ -6,12 +6,18 @@ permalink: /Publi/
 
 ## Accepted/Published
 
+* 2021 **P.O. Goffard** [Sequential Monte Carlo samplers to fit and compare insurance loss models](/Publications/smclomo_goffard_R2.pdf), to appear in *Scandinavian Actuarial Journal*
+
+* 2022 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with an application to insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), *Journal of Statistical Theory and Practice*
+
+* 2022 H. Albrecher, Dina Finger & **P.O. Goffard** [Blockchain mining in pools: Analyzing the trade-off between profitability and ruin](/Publications/blockchain_pool_rev2.pdf), *Insurance:Mathematics and Economics*
+
 * 2022 K. Barigou, **P.O. Goffard**, S. Loisel & Y. Salhi [Bayesian model averaging for mortality forecasting
-using leave-future-out validation](/Publications/BMAmortalityforecasting_18032021.pdf), to appear in International Journal of Forecasting
+using leave-future-out validation](/Publications/BMAmortalityforecasting_18032021.pdf), *International Journal of Forecasting*
 
-* 2021 **P.O. Goffard** & P. Laub [Approximate Bayesian Computations to fit and compare insurance loss models](/Publications/ABCFitLoMo_Goffard_Laub_V2.pdf), to appear in *Insurance:Mathematics and Economics*
+* 2021 **P.O. Goffard** & P. Laub [Approximate Bayesian Computations to fit and compare insurance loss models](/Publications/ABCFitLoMo_Goffard_Laub_V2.pdf), *Insurance:Mathematics and Economics*
 
-* 2021 H. Albrecher & **P.O. Goffard** [On the profitability of selfish blockchain mining under consideration of ruin](/Publications/Albrecher_Goffard_Selfish_MineR2.pdf), to appear in *Operations Research*
+* 2021 H. Albrecher & **P.O. Goffard** [On the profitability of selfish blockchain mining under consideration of ruin](/Publications/Albrecher_Goffard_Selfish_MineR2.pdf), *Operations Research*
 
 * 2020 **P.O. Goffard** & P. Laub, [Orthogonal polynomial expansions to evaluate stop-loss premiums](/Publications/Goffard_Laub_SLP.pdf), [Journal of Computationnal and Applied Mathematics](https://doi.org/10.1016/j.cam.2019.112648)
 
@@ -42,11 +48,7 @@ modèle composite pour les pertes en assurance non-vie](/Publications/memoire_ac
 
 ## Submitted/Under revision
 
-* 2021 H. Albrecher, Dina Finger & **P.O. Goffard** [Blockchain mining in pools: Analyzing the trade-off between profitability and ruin](/Publications/blockchain_pool_rev2.pdf), preprint
 
-* 2021 **P.O. Goffard** [Sequential Monte Carlo samplers to fit and compare insurance loss models](/Publications/smclomo_goffard_Revised.pdf), preprint
-
-* 2020 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with an application to insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), preprint
 
 ## Non peer-reviewed
 * 2016 **P.O. Goffard**, [Polynomial approximations suited for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), SCOR paper.
