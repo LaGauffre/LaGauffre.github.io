@@ -6,7 +6,7 @@ permalink: /Publi/
 
 ## Accepted/Published
 
-* 2021 **P.O. Goffard** [Sequential Monte Carlo samplers to fit and compare insurance loss models](/Publications/smclomo_goffard_R2.pdf), to appear in *Scandinavian Actuarial Journal*
+* 2022 **P.O. Goffard** [Sequential Monte Carlo samplers to fit and compare insurance loss models](/Publications/smclomo_goffard_R2.pdf), to appear in *Scandinavian Actuarial Journal*
 
 * 2022 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with an application to insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), *Journal of Statistical Theory and Practice*
 
