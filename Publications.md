@@ -15,11 +15,11 @@ S0169207022000243?casa_token=yfkpF_dN-gAAAAAA:POwo1nPvefSaiZyGsDUYpuve2xnjFjM38s
 
 13\. H. Albrecher & D. Finger & **P.O. Goffard**. *Blockchain mining in pools: Analyzing the trade-off between profitability and ruin*. Insurance: Mathematics and Economics (2022). [DOI](https://www.sciencedirect.com/science/article/pii/S016766872200049X), [preprint](https://hal.science/hal-03336851).
 
-12\. **P.O. Goffard** & P. Laub. Approximate Bayesian Computations to fit and compare insurance loss models. Insurance: Mathematics and Economics (2021). [DOI](https://www.sciencedirect.com/science/article/pii/S0167668721000998?casa_token=pQF9vRFqHo8AAAAA:oyAbD_NT2wVUKzFk7D2_hvmqGAHq45XFRvTMJu4APLs6ylIUyfpiVjBO_sAeGPoihu5UblQqF_8), [preprint](https://hal.science/hal-02891046).
+12\. **P.O. Goffard** & P. Laub. *Approximate Bayesian Computations to fit and compare insurance loss models*. Insurance: Mathematics and Economics (2021). [DOI](https://www.sciencedirect.com/science/article/pii/S0167668721000998?casa_token=pQF9vRFqHo8AAAAA:oyAbD_NT2wVUKzFk7D2_hvmqGAHq45XFRvTMJu4APLs6ylIUyfpiVjBO_sAeGPoihu5UblQqF_8), [preprint](https://hal.science/hal-02891046).
 
 11\. H. Albrecher & **P.O. Goffard**. *On the Profitability of Selfish Blockchain Mining Under Consideration of Ruin*. Operations Research (2021). [DOI](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2169), [preprint](https://hal.science/hal-02649025).
 
-10\. **P.O. Goffard** & Patrick Laub. Orthogonal polynomial expansions to evaluate
+10\. **P.O. Goffard** & Patrick Laub. *Orthogonal polynomial expansions to evaluate*
 stop-loss premiums. Journal of Computational and Applied Mathematics (2020). [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0377042719306533), [preprint](https://hal.science/hal-01626545).
 
 9\. Søren Asmussen, **P.O. Goffard** &  Patrick Laub. *Orthonormal polynomial expansion and lognormal sum densities*. Risk and Stochastics - Festschrift for Ragnar Norberg. [DOI](https://doi.org/10.1142/9781786341952_0008), [preprint](https://hal.science/hal-01249930).
