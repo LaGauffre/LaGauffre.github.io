@@ -20,7 +20,7 @@ permalink: /Teaching/
 
 ### UCSB
 
-* PSTAT: Advanced topics in Applied Probability (Stochastic models for Blockchain Analysis). [Page du cours](http://pierre-olivier.goffard.me/BLOCKASTICS/)
+* Advanced topics in Applied Probability (Stochastic models for Blockchain Analysis). [Page du cours](http://pierre-olivier.goffard.me/BLOCKASTICS/)
 * PSTAT130: Introduction to SAS
 * PSTAT296: Research projects in actuarial science
 * PSTAT120A: Introduction to probability
