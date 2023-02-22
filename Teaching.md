@@ -18,7 +18,7 @@ permalink: /Teaching/
 * Modélisation Charge-Sinistre. [Page du cours](http://pierre-olivier.goffard.me/MCS/)
 * Introduction à SAS
 
-### UCSB
+### University of California: Santa Barbara
 
 * Advanced topics in Applied Probability (Stochastic models for Blockchain Analysis). [Page du cours](http://pierre-olivier.goffard.me/BLOCKASTICS/)
 * PSTAT130: Introduction to SAS
