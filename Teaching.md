@@ -13,7 +13,7 @@ permalink: /Teaching/
 ### Université de Lyon 1 - ISFA
 
 * Intégration et théorie de la mesure. [Page du cours](http://pierre-olivier.goffard.me/integration/).
-* Introduction à R. [Page du cours](http://pierre-olivier.goffard.me/integration/).
+* Introduction à R. [Page du cours](http://pierre-olivier.goffard.me/IntroR/).
 * Modèles aléatoires discrets. [Page du cours](http://pierre-olivier.goffard.me/mad/).
 * Modélisation Charge-Sinistre. [Page du cours](http://pierre-olivier.goffard.me/MCS/)
 * Introduction à SAS
