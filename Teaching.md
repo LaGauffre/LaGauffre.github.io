@@ -24,7 +24,7 @@ permalink: /Teaching/
 * PSTAT130: Introduction to SAS
 * PSTAT296: Research projects in actuarial science
 * PSTAT120A: Introduction to probability
-* PSTAT160A: Applied Stochastic Processes (Part A)
+* PSTAT160A: Applied Stochastic Processes (Part A Markov chains and Poisson processes)
 
 
 <!-- ## Introduction à la théorie de la ruine
