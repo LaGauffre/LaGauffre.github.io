@@ -6,7 +6,7 @@ permalink: /Publi/
 
 ## Accepted/Published
 
-16\. **P.O. Goffard**. *Sequential Monte Carlo samplers to fit and compare insurance loss models*. Scandinavian Actuarial Journal (2022). [DOI](https://doi.org/10.1080/03461238.2022.2145577), [preprint](https://hal.science/hal-03263471)
+16\. **P.O. Goffard**. *Sequential Monte Carlo samplers to fit and compare insurance loss models*. Scandinavian Actuarial Journal (2022). [DOI](https://doi.org/10.1080/03461238.2022.2145577), [preprint](https://hal.science/hal-03263471).
 
 15\. **P.O. Goffard** & S. Rao Jammalamdaka & S. Meintanis. *Goodness-of-Fit Procedures for Compound Distributions with an Application to Insurance*. Journal of Statistical Theory and Practice (2022). [DOI](https://link.springer.com/article/10.1007/s42519-022-00276-6), [preprint](https://hal.science/hal-02120870).
 
@@ -27,7 +27,7 @@ stop-loss premiums. Journal of Computational and Applied Mathematics (2020). [DO
 8\. **P.O. Goffard** & Andrey Sarantsev. *Exponential convergence rate of ruin probabilities for Level-dependent Lévy driven risk process*. Journal of Applied Probability (2019). [DOI](https://www.cambridge.org/core/journals/journal-of-applied-probability/article/abs/exponential-convergence-rate-of-ruin-probabilities-for-leveldependent-levydriven-risk-processes/840E17B2480AC08C0444EFAC9F648DB8), [preprint](https://hal.science/hal-01612933).
 
 
-7\. **P.O. Goffard**. *Fraud risk assessment within blockchain transactions}{Advances in Applied Probability*. Advances in Applied Probability (2019). [DOI](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/fraud-risk-assessment-within-blockchain-transactions/DC96574C5098794A8345167F69149A44), [preprint](https://hal.science/hal-01716687).
+7\. **P.O. Goffard**. *Fraud risk assessment within blockchain transactions*. Advances in Applied Probability (2019). [DOI](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/fraud-risk-assessment-within-blockchain-transactions/DC96574C5098794A8345167F69149A44), [preprint](https://hal.science/hal-01716687).
 
 6\. **P.O. Goffard**. *Two-sided exit problems in the ordered risk model}{Methodology and Computing in Applied Probability*. Methodology and Computing in Applied Probability (2019). [DOI](https://link.springer.com/article/10.1007/s11009-017-9606-z), [preprint](https://hal.science/hal-01528204).
 
