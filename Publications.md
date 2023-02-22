@@ -6,52 +6,62 @@ permalink: /Publi/
 
 ## Accepted/Published
 
-* 2022 **P.O. Goffard** [Sequential Monte Carlo samplers to fit and compare insurance loss models](/Publications/smclomo_goffard_R2.pdf), to appear in *Scandinavian Actuarial Journal*
+16\. **P.O. Goffard**. *Sequential Monte Carlo samplers to fit and compare insurance loss models*. Scandinavian Actuarial Journal (2022). [DOI](https://doi.org/10.1080/03461238.2022.2145577), [preprint](https://hal.science/hal-03263471)
 
-* 2022 **P.O. Goffard**, S. R. Jammalamadaka, & S. Meintanis [Goodness-of-fit tests for compound distributions with an application to insurance](/Publications/GOF_Compound_Distribution_Goffard_Jammalamadaka_Meintanis.pdf), *Journal of Statistical Theory and Practice*
+15\. **P.O. Goffard** & S. Rao Jammalamdaka & S. Meintanis. *Goodness-of-Fit Procedures for Compound Distributions with an Application to Insurance*. Journal of Statistical Theory and Practice (2022). [DOI](https://link.springer.com/article/10.1007/s42519-022-00276-6), [preprint](https://hal.science/hal-02120870).
 
-* 2022 H. Albrecher, Dina Finger & **P.O. Goffard** [Blockchain mining in pools: Analyzing the trade-off between profitability and ruin](/Publications/blockchain_pool_rev2.pdf), *Insurance:Mathematics and Economics*
+14\. K. Barigou & **P.O. Goffard** & S. Loisel & Y. Salhi. *Bayesian model averaging for mortality forecasting using leave-future-out validation*. International Journal of Forecasting (2022). [DOI](https://www.sciencedirect.com/science/article/pii/
+S0169207022000243?casa_token=yfkpF_dN-gAAAAAA:POwo1nPvefSaiZyGsDUYpuve2xnjFjM38sXUWLFVar5cKmiSkSCBw5mrvNbQlKX7G9q6OLa7H6M), [preprint](https://hal.science/hal-03175212).
 
-* 2022 K. Barigou, **P.O. Goffard**, S. Loisel & Y. Salhi [Bayesian model averaging for mortality forecasting
-using leave-future-out validation](/Publications/BMAmortalityforecasting_18032021.pdf), *International Journal of Forecasting*
+13\. H. Albrecher & D. Finger & **P.O. Goffard**. *Blockchain mining in pools: Analyzing the trade-off between profitability and ruin*. Insurance: Mathematics and Economics (2022). [DOI](https://www.sciencedirect.com/science/article/pii/S016766872200049X), [preprint](https://hal.science/hal-03336851).
 
-* 2021 **P.O. Goffard** & P. Laub [Approximate Bayesian Computations to fit and compare insurance loss models](/Publications/ABCFitLoMo_Goffard_Laub_V2.pdf), *Insurance:Mathematics and Economics*
+12\. **P.O. Goffard** & P. Laub. Approximate Bayesian Computations to fit and compare insurance loss models. Insurance: Mathematics and Economics (2021). [DOI](https://www.sciencedirect.com/science/article/pii/S0167668721000998?casa_token=pQF9vRFqHo8AAAAA:oyAbD_NT2wVUKzFk7D2_hvmqGAHq45XFRvTMJu4APLs6ylIUyfpiVjBO_sAeGPoihu5UblQqF_8), [preprint](https://hal.science/hal-02891046).
 
-* 2021 H. Albrecher & **P.O. Goffard** [On the profitability of selfish blockchain mining under consideration of ruin](/Publications/Albrecher_Goffard_Selfish_MineR2.pdf), *Operations Research*
+11\. H. Albrecher & **P.O. Goffard**. *On the Profitability of Selfish Blockchain Mining Under Consideration of Ruin*. Operations Research (2021). [DOI](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2169), [preprint](https://hal.science/hal-02649025).
 
-* 2020 **P.O. Goffard** & P. Laub, [Orthogonal polynomial expansions to evaluate stop-loss premiums](/Publications/Goffard_Laub_SLP.pdf), [Journal of Computationnal and Applied Mathematics](https://doi.org/10.1016/j.cam.2019.112648)
+10\. **P.O. Goffard** & Patrick Laub. Orthogonal polynomial expansions to evaluate
+stop-loss premiums. Journal of Computational and Applied Mathematics . [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0377042719306533), [preprint](https://hal.science/hal-01626545).
 
-* 2019 **P.O. Goffard** & A. Sarantsev, [Exponential convergence rate of ruin probabilities for level-dependent Lévy driven risk process](/Publications/Risk Theory (12).pdf), [Journal of Applied Probability]( https://doi.org/10.1017/jpr.2019.71)
+9\. Søren Asmussen, **P.O. Goffard** &  Patrick Laub. *Orthonormal polynomial expansion and lognormal sum densities*. Risk and Stochastics - Festschrift for Ragnar Norberg. [DOI](https://doi.org/10.1142/9781786341952_0008), [preprint](https://hal.science/hal-01249930).
 
-* 2019 **P.O. Goffard**, [Fraud risk assessment within blockchain transactions](/Publications/Fraud_Risk_Assessment_Blockchain_APT.pdf), Advances in Applied Probability.
+8\. **P.O. Goffard** & Andrey Sarantsev. *Exponential convergence rate of ruin probabilities for Level-dependent Lévy driven risk process*. Journal of Applied Probability (2019). [DOI](https://www.cambridge.org/core/journals/journal-of-applied-probability/article/abs/exponential-convergence-rate-of-ruin-probabilities-for-leveldependent-levydriven-risk-processes/840E17B2480AC08C0444EFAC9F648DB8), [preprint](https://hal.science/hal-01612933).
 
-* 2018 **P.O. Goffard** & C. Lefèvre, [Duality in ruin problems for ordered risk models](/Publications/GoffardLefevreOrderedDualRiskModel.pdf), Insurance: Mathematics and Economics.
 
-* 2017 **P.O. Goffard**, [Two-sided exit problems in the ordered risk model](/Publications/Goffard_FirstExitTime_Rg.pdf), Methodology and Computing in Applied probability.
+7\. **P.O. Goffard**. *Fraud risk assessment within blockchain transactions}{Advances in Applied Probability*. Advances in Applied Probability (2019). [DOI](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/fraud-risk-assessment-within-blockchain-transactions/DC96574C5098794A8345167F69149A44), [preprint](https://hal.science/hal-01716687).
 
-* 2016 **P.O. Goffard** & C. Lefèvre, [Boundary crossing of order statistic point processes](/Publications/BoundaryCrosingOSPP - Goffard,Lefevre.pdf), Journal of Mathematical Analysis and Applications.
+6\. **P.O. Goffard**. *Two-sided exit problems in the ordered risk model}{Methodology and Computing in Applied Probability*. Methodology and Computing in Applied Probability (2019). [DOI](https://link.springer.com/article/10.1007/s11009-017-9606-z), [preprint](https://hal.science/hal-01528204).
 
-* 2015 **P.O. Goffard**, S. Loisel & D. Pommeret, [Polynomial approximations for bivariate aggregate claims amount probability distributions](/Publications/Goffard_Loisel_Pommeret_RevisedVersion1.pdf), Methodology and Computing in Applied Probability.
+5\. **P.O. Goffard** &  Claude Lefèvre. *Duality in ruin problems for ordered risk 
+models*. Insurance: Mathematics and Economics (2018). [DOI](https://www.sciencedirect.com/science/article/pii/S0167668716304863?casa_token=gYN4GnhhsSwAAAAA:1Xrnzk-iExE_6B4FyOwLwR_WueGykXMSO-QtZkO8CiIvGFkxxeDqPQpOI-6t0CoeMo8tID6Tx5o), [preprint](https://hal.science/hal-01398910).
 
-* 2015 **P.O. Goffard** & X. Guerrault, [Is it optimal to group policyholder by age, gender, and seniority for BEL computations based on model points?](/Publications/DraftMPGrouping.pdf), European Actuarial Journal.
+4\. **P.O. Goffard** &  Claude Lefèvre.  *Boundary crossing problem of order statistic point processes*. Journal of Mathematical Analysis and Applications (2017), [DOI](https://www.sciencedirect.com/science/article/pii/S0022247X16306400), [preprint](https://hal.science/hal-01354276).
 
-* 2015 **P.O. Goffard**, S. Loisel & D. Pommeret, [A polynomial expansion to approximate the ultimate ruin probability in the compound Poisson ruin model](/Publications/Goffard_Loisel_Pommeret_June2015_Ruin_Probability_Approximation.pdf), Journal of Computational and Applied Mathematics.
 
-## Chapter in book
+3\. **P.O. Goffard**, Stephane Loisel &  Denys Pommeret. *Polynomial approximations for 
+bivariate aggregate claims amount probability distributions*. Methodology and Computing in Applied Probability (2017), [DOI](https://link.springer.com/article/10.1007/s11009-015-9470-7), [preprint](https://hal.science/hal-01292949).
 
-* 2021 **P.O. Goffard**, [Echantillonneurs de Monte Carlo séquentiels pour la calibration et la sélection d’un
-modèle composite pour les pertes en assurance non-vie](/Publications/memoire_actuariat_Goffard_30_09_2021.pdf), Actuarial Science Thesis, ISFA, Université Claude Bernard Lyon 1.
+2\. **P.O. Goffard**, Stephane Loisel &  Denys Pommeret. *A polynomial expansion to approximate the ultimate ruin probability in the compound Poisson ruin model*.
+ Journal of Computational and Applied Mathematics (2016), [DOI](https://www.sciencedirect.com/science/article/pii/S0377042715003222), [preprint](https://hal.science/hal-00853680).
 
-* 2015 S. Asmussen, **P.O. Goffard**, & P. Laub, [Orthonormal polynomial expansions and lognormal sum densities](/Publications/Asmussen_Goffard_Laub_LogNormalPolynomialApproximation.pdf), Risk and Stochastics - Festschrift for Ragnar Norberg (forthcoming).
+1\. **P.O. Goffard** & X. Guerrault. *Is it optimal to group policyholders by age, gender, and seniority for BEL computations based on model points?* European Actuarial Journal (2015), [DOI](https://link.springer.com/article/10.1007/s13385-015-0106-7), [preprint](https://hal.science/hal-01080185).
 
-* 2015 **P.O. Goffard**, [Approximations polynomiales de densités de probabilité et applications en assurance](/Publications/Main.pdf), PhD Thesis, Aix-Marseille Université.
 
 ## Submitted/Under revision
 
+## Doctoral thesis
+
+**P.O. Goffard**. *Approximations polynomiales de densités de probabilité et applications en assurance*, PhD Thesis, Aix-Marseille Université. [Manuscript](https://www.theses.fr/2015AIXM4026)
+
+## Actuarial science thesis
+
+**P.O. Goffard**. *Echantillonneurs de Monte Carlo séquentiels pour la calibration et la sélection d’un
+modèle composite pour les pertes en assurance non-vie*, Actuarial Science Thesis, ISFA, Université Claude Bernard Lyon 1. [Manuscript](https://www.institutdesactuaires.com/se-documenter/memoires/memoires-d-actuariat-4651?id=9966883d1099e45eb49d63cd00093b47)
 
 
-## Non peer-reviewed
-* 2016 **P.O. Goffard**, [Polynomial approximations suited for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), SCOR paper.
+
+
+<!-- ## Non peer-reviewed
+* 2016 **P.O. Goffard**, [Polynomial approximations suited for compound distribution: Applications to insurance](/Publications/GoffardPO_SCOR_Paper.pdf), SCOR paper. -->
 
 
 
