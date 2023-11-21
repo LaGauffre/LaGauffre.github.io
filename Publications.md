@@ -48,6 +48,11 @@ bivariate aggregate claims amount probability distributions*. Methodology and Co
 
 ## Submitted/Under revision
 
+**P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking*. (2023), [preprint](https://hal.science/hal-04297811).
+
+Hansjoerg Albrecher, Dina Finger & **P.O. Goffard**. *Empirical risk analysis of mining a Proof-of-Work blockchain*. (2023), [preprint](https://hal.science/hal-04297820).
+
+
 ## Doctoral thesis
 
 **P.O. Goffard**. *Approximations polynomiales de densités de probabilité et applications en assurance*, PhD Thesis, Aix-Marseille Université. [Manuscript](https://www.theses.fr/2015AIXM4026)
