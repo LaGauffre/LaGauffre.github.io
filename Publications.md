@@ -6,6 +6,8 @@ permalink: /Publi/
 
 ## Accepted/Published
 
+17\. Hansjoerg Albrecher, Dina Finger & **P.O. Goffard**. *Empirical risk analysis of mining a Proof-of-Work blockchain*. Decisions in Economics and Finance (2023). [DOI](https://link.springer.com/article/10.1007/s10203-024-00458-w), [preprint](https://hal.science/hal-04297820).
+
 16\. **P.O. Goffard**. *Sequential Monte Carlo samplers to fit and compare insurance loss models*. Scandinavian Actuarial Journal (2022). [DOI](https://doi.org/10.1080/03461238.2022.2145577), [preprint](https://hal.science/hal-03263471).
 
 15\. **P.O. Goffard** & S. Rao Jammalamdaka & S. Meintanis. *Goodness-of-Fit Procedures for Compound Distributions with an Application to Insurance*. Journal of Statistical Theory and Practice (2022). [DOI](https://link.springer.com/article/10.1007/s42519-022-00276-6), [preprint](https://hal.science/hal-02120870).
@@ -50,7 +52,8 @@ bivariate aggregate claims amount probability distributions*. Methodology and Co
 
 **P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking*. (2023), [preprint](https://hal.science/hal-04297811).
 
-Hansjoerg Albrecher, Dina Finger & **P.O. Goffard**. *Empirical risk analysis of mining a Proof-of-Work blockchain*. (2023), [preprint](https://hal.science/hal-04297820).
+Eleonore Blanchard & **P.O. Goffard**. *Data driven investment strategies using Bayesian
+inference in regime switching models*. (2024), [preprint](https://hal.science/hal-04608937).
 
 
 ## Doctoral thesis
