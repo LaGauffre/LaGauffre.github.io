@@ -55,7 +55,7 @@ bivariate aggregate claims amount probability distributions*. Methodology and Co
 Eleonore Blanchard & **P.O. Goffard**. *Data driven investment strategies using Bayesian
 inference in regime switching models*. (2024), [preprint](https://hal.science/hal-04608937).
 
-**P.O. Goffard** & Stéphane Loisel. *Collaborative and parametric insurance on the Ethereum blockchain*. (2024), [preprint](https://hal.science/hal-04817558).
+**P.O. Goffard** & Stéphane Loisel. *Collaborative and parametric insurance on the Ethereum blockchain*. (2024), [preprint](https://arxiv.org/abs/2412.05321).
 
 
 ## Doctoral thesis
