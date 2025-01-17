@@ -5,8 +5,8 @@ permalink: /Teaching/
 ---
 ### Université de Strasbourg - Master DUAS
 
-* Modèle de Durée
-* Calcul Stochastique Appliquée
+* Modèle de Durée [Page du cours](https://pierre-olivier.goffard.me/MDD/)
+* Calcul Stochastique Appliquée [Page du cours](https://pierre-olivier.goffard.me/Calcul_Sto/)
 * Séminaire d'évaluation des stages
 
 
