@@ -50,7 +50,7 @@ bivariate aggregate claims amount probability distributions*. Methodology and Co
 
 ## Submitted/Under revision
 
-**P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking*. (2023), [preprint](https://hal.science/hal-04297811).
+**P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking: Application to Pet Insurance*. (2023), [preprint](https://arxiv.org/abs/2502.04082).
 
 Eleonore Blanchard & **P.O. Goffard**. *Data driven investment strategies using Bayesian
 inference in regime switching models*. (2024), [preprint](https://hal.science/hal-04608937).
