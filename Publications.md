@@ -6,7 +6,9 @@ permalink: /Publi/
 
 ## Accepted/Published
 
-17\. Hansjoerg Albrecher, Dina Finger & **P.O. Goffard**. *Empirical risk analysis of mining a Proof-of-Work blockchain*. Decisions in Economics and Finance (2023). [DOI](https://link.springer.com/article/10.1007/s10203-024-00458-w), [preprint](https://hal.science/hal-04297820).
+18\. **P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking: Application to Pet Insurance*. (2025), [DOI](https://doi.org/10.1017/asb.2025.12) [preprint](https://arxiv.org/abs/2502.04082).
+
+17\. Hansjoerg Albrecher, Dina Finger & **P.O. Goffard**. *Empirical risk analysis of mining a Proof-of-Work blockchain*. Decisions in Economics and Finance (2024). [DOI](https://link.springer.com/article/10.1007/s10203-024-00458-w), [preprint](https://hal.science/hal-04297820).
 
 16\. **P.O. Goffard**. *Sequential Monte Carlo samplers to fit and compare insurance loss models*. Scandinavian Actuarial Journal (2022). [DOI](https://doi.org/10.1080/03461238.2022.2145577), [preprint](https://hal.science/hal-03263471).
 
@@ -50,7 +52,7 @@ bivariate aggregate claims amount probability distributions*. Methodology and Co
 
 ## Submitted/Under revision
 
-**P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking: Application to Pet Insurance*. (2023), [preprint](https://arxiv.org/abs/2502.04082).
+
 
 Eleonore Blanchard & **P.O. Goffard**. *Data driven investment strategies using Bayesian
 inference in regime switching models*. (2024), [preprint](https://hal.science/hal-04608937).
