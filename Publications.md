@@ -52,8 +52,6 @@ bivariate aggregate claims amount probability distributions*. Methodology and Co
 
 ## Submitted/Under revision
 
-
-
 Eleonore Blanchard & **P.O. Goffard**. *Data driven investment strategies using Bayesian
 inference in regime switching models*. (2024), [preprint](https://hal.science/hal-04608937).
 
