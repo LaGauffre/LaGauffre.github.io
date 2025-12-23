@@ -6,7 +6,12 @@ permalink: /Publi/
 
 ## Accepted/Published
 
-18\. **P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking: Application to Pet Insurance*. (2025), [DOI](https://doi.org/10.1017/asb.2025.12) [preprint](https://arxiv.org/abs/2502.04082).
+20\. **P.O. Goffard** & Stéphane Loisel. *Collaborative and parametric insurance on the Ethereum blockchain*. ASTIN Bulletin (2024), [DOI](https://doi.org/10.1017/asb.2025.10078) [preprint](https://arxiv.org/abs/2412.05321).
+
+19\.Eleonore Blanchard & **P.O. Goffard**. *Data driven investment strategies using Bayesian
+inference in regime switching models*. Applied Stochastic Models in Business and Industry (2024), [DOI]( https://doi.org/10.1002/asmb.70058) [preprint](https://hal.science/hal-04608937).
+
+18\. **P.O. Goffard**, Gareth Peters &  Pierrick Piette. *Market-based Insurance Ratemaking: Application to Pet Insurance*. ASTIN Bulletin (2025), [DOI](https://doi.org/10.1017/asb.2025.12) [preprint](https://arxiv.org/abs/2502.04082).
 
 17\. Hansjoerg Albrecher, Dina Finger & **P.O. Goffard**. *Empirical risk analysis of mining a Proof-of-Work blockchain*. Decisions in Economics and Finance (2024). [DOI](https://link.springer.com/article/10.1007/s10203-024-00458-w), [preprint](https://hal.science/hal-04297820).
 
@@ -52,10 +57,9 @@ bivariate aggregate claims amount probability distributions*. Methodology and Co
 
 ## Submitted/Under revision
 
-Eleonore Blanchard & **P.O. Goffard**. *Data driven investment strategies using Bayesian
-inference in regime switching models*. (2024), [preprint](https://hal.science/hal-04608937).
-
-**P.O. Goffard** & Stéphane Loisel. *Collaborative and parametric insurance on the Ethereum blockchain*. (2024), [preprint](https://arxiv.org/abs/2412.05321).
+Hansjoerg Albrecher, **P.O. Goffard** & Jean-Pierre Fouque. *Hashpower allocation in Pay-per-Share blockchain mining pools*. (2025), [preprint](
+https://doi.org/10.48550/arXiv.2511.13777
+).
 
 
 ## Doctoral thesis
